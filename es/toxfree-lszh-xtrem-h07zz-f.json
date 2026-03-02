@@ -1,0 +1,258 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "name": "TOXFREE\u00ae XTREM LSZH H07ZZ-F (AS)",
+      "mpn": "H07ZZ-F",
+      "sku": "H07ZZ-F",
+      "description": "Cable flexible de goma, libre de hal\u00f3genos, para servicio m\u00f3vil. NORMAS DE REFERENCIA: EN 50525-3-21. El TOXFREE\u00ae XTREM LSZH H07ZZ-F (AS) es un cable flexible apto para servicio m\u00f3vil, adecuado para instalaciones donde se requiera una baja emisi\u00f3n de humos y gases corrosivos en caso de incendio. Se admite empleo hasta 1.000 V en montaje fijo protegido. Dise\u00f1ado para instalaciones donde el cable tenga que soportar esfuerzos mec\u00e1nicos medios, para aparatos de talleres industriales y agr\u00edcolas, motores y m\u00e1quinas transportables en construcciones, para aerogeneradores y explotaciones agr\u00edcolas.",
+      "image": [
+        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-toxfree-xtrem-lszh-h07zz-f-extra-flexible-lszh-rubber-cable-for-mobile-service-01.png",
+        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_TOXFREE_XTREM.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/bobina_negra.png"
+      ],
+      "url": "https://www.topcable.com/es/cable/toxfree-lszh-xtrem-h07zz-f/",
+      "category": "Hardware > Building Materials > Wiring & Cables > Electrical Cables",
+      "brand": {
+        "@type": "Brand",
+        "name": "TOXFREE\u00ae",
+        "url": "https://www.topcable.com/company/our-brands/"
+      },
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.topcable.com/#organization"
+      },
+      "material": "Copper, class 5 (flexible)",
+      "audience": {
+        "@type": "BusinessAudience",
+        "audienceType": "Electrical Distributors, Electrical Installers, Engineers (Industrial Projects)"
+      },
+      "subjectOf": {
+        "@type": "DigitalDocument",
+        "name": "Ficha T\u00e9cnica - TOXFREE\u00ae XTREM LSZH H07ZZ-F (AS)",
+        "url": "https://www.topcable.com/downloads/pdf/es/topcable-datasheet-toxfree-lszh-xtrem-h07zz-f-es.pdf",
+        "encodingFormat": "application/pdf",
+        "description": "Especificaciones t\u00e9cnicas completas, datos de ingenier\u00eda y certificaciones del cable."
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Conductor",
+          "value": "Cobre electrol\u00edtico, clase 5 (flexible) seg\u00fan UNE-EN 60228 e IEC 60228",
+          "url": "https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=151-12-05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Insulation",
+          "value": "Goma libre de hal\u00f3genos, tipo EI8 seg\u00fan EN 50363-5"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Outer Sheath",
+          "value": "Goma libre de hal\u00f3genos tipo EM8 seg\u00fan EN 50363-6. Color negro."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Rated Voltage",
+          "value": "450/750",
+          "unitText": "V"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Maximum Conductor Temperature",
+          "value": "90",
+          "unitText": "\u00b0C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Maximum Short-Circuit Temperature",
+          "value": "250 (m\u00e1ximo 5 s)",
+          "unitText": "\u00b0C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum Service Temperature",
+          "value": "-40 (servicio m\u00f3vil)",
+          "unitText": "\u00b0C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Flame Non-Propagation",
+          "value": "No propagaci\u00f3n de la llama seg\u00fan UNE-EN 60332-1 / IEC 60332-1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Fire Non-Propagation",
+          "value": "No propagaci\u00f3n del incendio seg\u00fan UNE-EN 60332-3-24 / IEC 60332-3-24 y EN 50399"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "CPR Classification",
+          "value": "B2ca-s1b, d1, a1 o Cca-s1b, d2, a1 (seg\u00fan secci\u00f3n) seg\u00fan EN 50575"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Halogen Free",
+          "value": "Libre de hal\u00f3genos seg\u00fan UNE-EN 60754-1 / IEC 60754-1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Low Corrosive Gases Emission",
+          "value": "Baja emisi\u00f3n de gases corrosivos seg\u00fan UNE-EN 60754-2 / IEC 60754-2"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Low Smoke Emission",
+          "value": "Baja emisi\u00f3n de humos seg\u00fan UNE-EN 61034 / IEC 61034"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Light Transmittance",
+          "value": "> 60%"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum Bending Radius",
+          "value": "3x di\u00e1metro del cable < 12 mm; 4x di\u00e1metro del cable > 12 mm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Impact Resistance",
+          "value": "AG2 Medio"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Chemical & Oil Resistance",
+          "value": "Excelente"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Water Resistance",
+          "value": "AD7 Inmersi\u00f3n"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Installation Conditions",
+          "value": "Al aire. En conducto."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Standards (According To)",
+          "value": "EN 50525-3-21"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Standards and Approvals",
+          "value": "ITC: 20/27/28/29/30/32/33/34/41/49, HAR, AENOR, CE"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Typical Applications",
+          "value": "Uso industrial, Servicio m\u00f3vil, Aerogeneradores"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "European Stock",
+          "value": "Largest European Stock Holding"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Manufacturing Quality",
+          "value": "As cable manufacturers, we ensure cost-effective premium quality and lasting performance."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Quality Testing",
+          "value": "Our in-house labs guarantee rigorous cable quality, reliability, and standards compliance."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Global Logistics",
+          "value": "Global cable delivery solutions\u2014expert logistics for seamless supply."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Fast Delivery",
+          "value": "Full cable stock, ready for fast delivery- shortest lead times."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Sustainability",
+          "value": "EPD-certified cables: Sustainable manufacturing for your Scope 3 success."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Customer Service",
+          "value": "Expert, friendly and professional sales team offering a fast & efficient customer service. Global customers are welcome!"
+        }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.topcable.com/es/cable/toxfree-lszh-xtrem-h07zz-f/",
+        "priceCurrency": "EUR",
+        "price": 0,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "eligibleRegion": {
+          "@type": "Place",
+          "name": "World"
+        },
+        "seller": {
+          "@type": "Organization",
+          "@id": "https://www.topcable.com/#organization"
+        }
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://www.topcable.com/es/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cables LSZH",
+          "item": "https://www.topcable.com/es/cables-lszh/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "TOXFREE\u00ae XTREM LSZH H07ZZ-F (AS)"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.topcable.com/#organization",
+      "name": "Top Cable",
+      "url": "https://www.topcable.com/",
+      "email": "sales@topcable.com",
+      "telephone": "+34 935 880 911",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Carrer de Leonardo da Vinci, 1",
+        "addressLocality": "Rub\u00ed",
+        "addressRegion": "Barcelona",
+        "postalCode": "08191",
+        "addressCountry": "ES"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://www.topcable.com/#logo",
+        "url": "https://www.topcable.com/wp-content/uploads/2026/01/top-cable-logo.png",
+        "contentUrl": "https://www.topcable.com/wp-content/uploads/2026/01/top-cable-logo.png"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/topcable/",
+        "https://www.youtube.com/@Topcable_europe",
+        "https://www.instagram.com/topcable_spain/",
+        "https://www.facebook.com/topcable/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "name": "TOPSOLAR\u00ae PV H1Z2Z2-K",
+      "mpn": "H1Z2Z2-K",
+      "sku": "H1Z2Z2-K",
+      "description": "C\u00e2ble solaire T\u00dcV PV. SELON: EN 50618 / IEC 62930 / UTE C 32-502. Le c\u00e2ble Topsolar\u00ae H1Z2Z2-K est un c\u00e2ble pour les installations solaires photovolta\u00efques, certifi\u00e9 T\u00dcV et EN. Il est sp\u00e9cialement con\u00e7u pour la connexion de panneaux photovolta\u00efques. Ce c\u00e2ble unipolaire versatile est con\u00e7u pour r\u00e9pondre aux besoins divers de l'industrie de l'\u00e9nergie solaire.",
+      "image": [
+        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-topsolar-pv-h1z2z2-k-tuv-solar-pv-cable-01.png",
+        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_TOPSOLAR_PV.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/bobina_negra.png"
+      ],
+      "url": "https://www.topcable.com/fr/cable/topsolar-pv-h1z2z2-k/",
+      "category": "Hardware > Building Materials > Wiring & Cables > Electrical Cables",
+      "brand": {
+        "@type": "Brand",
+        "name": "TOPSOLAR\u00ae",
+        "url": "https://www.topcable.com/company/our-brands/"
+      },
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.topcable.com/#organization"
+      },
+      "material": "Tinned copper, class 5 (flexible)",
+      "audience": {
+        "@type": "BusinessAudience",
+        "audienceType": "Solar EPC Developers, Electrical Distributors, Renewable Energy Engineers"
+      },
+      "subjectOf": {
+        "@type": "DigitalDocument",
+        "name": "Fiche Technique - TOPSOLAR\u00ae PV H1Z2Z2-K",
+        "url": "https://www.topcable.com/downloads/pdf/fr/topcable-datasheet-topsolar-pv-h1z2z2-k-fr.pdf",
+        "encodingFormat": "application/pdf",
+        "description": "Sp\u00e9cifications techniques compl\u00e8tes, donn\u00e9es d'ing\u00e9nierie et certifications du c\u00e2ble."
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Conductor",
+          "value": "Cuivre \u00e9tam\u00e9 classe 5 (souple), selon EN 60228 et IEC 60228",
+          "url": "https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=151-12-05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Insulation",
+          "value": "Caoutchouc r\u00e9ticul\u00e9 \u00e0 faible \u00e9mission de fum\u00e9e et sans halog\u00e8ne selon EN 50618 et IEC 62930 tableau B1, annexe B"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Outer Sheath",
+          "value": "Caoutchouc flexible r\u00e9ticul\u00e9 \u00e0 faible \u00e9mission de fum\u00e9e et sans halog\u00e8ne selon EN 50618 et IEC 62930 tableau B1, annexe B"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Rated Voltage",
+          "value": "1,5 (1,8) kV DC / 1,0/1,0 kV AC"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Maximum Conductor Temperature",
+          "value": "90 (120 pendant 20.000 h)",
+          "unitText": "\u00b0C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Maximum Short-Circuit Temperature",
+          "value": "250 (max. 5 s)",
+          "unitText": "\u00b0C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum Service Temperature",
+          "value": "-40 (installations fixes et prot\u00e9g\u00e9es)",
+          "unitText": "\u00b0C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Flame Non-Propagation",
+          "value": "Non propagation de la flamme selon EN 60332-1-2 / IEC 60332-1-2"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Fire Non-Propagation",
+          "value": "Non propagation de l'incendie selon EN 50399"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "CPR Classification",
+          "value": "Cca-s1b, d2, a1 selon EN 50575"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Halogen Free",
+          "value": "Faible \u00e9mission de fum\u00e9e (sans halog\u00e8ne) selon EN 60754-1 / IEC 60754-1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Low Corrosive Gases Emission",
+          "value": "Faible \u00e9mission de gaz corrosifs selon EN 60754-2 / IEC 60754-2"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Low Smoke Emission",
+          "value": "Faible d\u00e9gagement de fum\u00e9e selon EN 61034 / IEC 61034"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Light Transmittance",
+          "value": "> 60%"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum Bending Radius",
+          "value": "4x diam\u00e8tre du c\u00e2ble (\u2264 8 mm), 5x diam\u00e8tre du c\u00e2ble (\u2264 12 mm), 6x diam\u00e8tre du c\u00e2ble (> 12 mm)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Impact Resistance",
+          "value": "AG2 Impact moyen"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Chemical & Oil Resistance",
+          "value": "Excellente"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "UV Resistance",
+          "value": "R\u00e9sistance aux UV selon EN 50618 et IEC 62930"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Water Resistance",
+          "value": "AD7+ Immersion, AD8 Submersion"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Installation Conditions",
+          "value": "\u00c0 l'air libre, Enterr\u00e9, En canalisation"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Standards (According To)",
+          "value": "EN 50618, IEC 62930, UTE C 32-502"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Standards and Approvals",
+          "value": "T\u00dcV Rheinland, RETIE, AENOR, RoHS, CE"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Typical Applications",
+          "value": "Installations solaires photovolta\u00efques, Fermes solaires, Solaire en toiture, Centrales solaires flottantes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "European Stock",
+          "value": "Largest European Stock Holding"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Manufacturing Quality",
+          "value": "As cable manufacturers, we ensure cost-effective premium quality and lasting performance."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Quality Testing",
+          "value": "Our in-house labs guarantee rigorous cable quality, reliability, and standards compliance."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Global Logistics",
+          "value": "Global cable delivery solutions\u2014expert logistics for seamless supply."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Fast Delivery",
+          "value": "Full cable stock, ready for fast delivery- shortest lead times."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Sustainability",
+          "value": "EPD-certified cables: Sustainable manufacturing for your Scope 3 success."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Customer Service",
+          "value": "Expert, friendly and professional sales team offering a fast & efficient customer service. Global customers are welcome!"
+        }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.topcable.com/fr/cable/topsolar-pv-h1z2z2-k/",
+        "priceCurrency": "EUR",
+        "price": 0,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "eligibleRegion": {
+          "@type": "Place",
+          "name": "World"
+        },
+        "seller": {
+          "@type": "Organization",
+          "@id": "https://www.topcable.com/#organization"
+        }
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Accueil",
+          "item": "https://www.topcable.com/fr/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "C\u00e2bles solaires",
+          "item": "https://www.topcable.com/fr/cables-solaires/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "TOPSOLAR\u00ae PV H1Z2Z2-K"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.topcable.com/#organization",
+      "name": "Top Cable",
+      "url": "https://www.topcable.com/",
+      "email": "sales@topcable.com",
+      "telephone": "+34 935 880 911",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Carrer de Leonardo da Vinci, 1",
+        "addressLocality": "Rub\u00ed",
+        "addressRegion": "Barcelona",
+        "postalCode": "08191",
+        "addressCountry": "ES"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://www.topcable.com/#logo",
+        "url": "https://www.topcable.com/wp-content/uploads/2026/01/top-cable-logo.png",
+        "contentUrl": "https://www.topcable.com/wp-content/uploads/2026/01/top-cable-logo.png"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/topcable/",
+        "https://www.youtube.com/@Topcable_europe",
+        "https://www.instagram.com/topcable_spain/",
+        "https://www.facebook.com/topcable/"
+      ]
+    }
+  ]
+}

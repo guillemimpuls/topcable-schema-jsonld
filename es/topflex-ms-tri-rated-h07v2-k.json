@@ -1,0 +1,223 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "name": "TOPFLEX\u00ae MS TRI-RATED H07V2-K",
+      "mpn": "H07V2-K",
+      "sku": "H07V2-K",
+      "description": "Cable para cableado interno de armarios el\u00e9ctricos. NORMA DE REFERENCIA: EN 50525-2-31 / BS 6231 / UL 758 / CSA C22.2. El cable TOPFLEX\u00ae MS TRI-RATED H07V2-K ha sido especialmente dise\u00f1ado para cableado interno de armarios el\u00e9ctricos, cajas de interruptores y peque\u00f1os aparatos el\u00e9ctricos. Gracias a las caracter\u00edsticas de su construcci\u00f3n, puede ser usado en tubos o en conductos flexibles para motores, transformadores y, en general, para cualquier otra maquinaria.",
+      "image": [
+        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-tri-rated-h07v2-k-cable-for-internal-wiring-of-electrical-cabinets-ul-csa-bs-une-01.png",
+        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_TOPFLEX_TRI_RATED.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/bobina_negra.png"
+      ],
+      "url": "https://www.topcable.com/es/cable/topflex-ms-tri-rated-h07v2-k/",
+      "category": "Hardware > Building Materials > Wiring & Cables > Electrical Cables",
+      "brand": {
+        "@type": "Brand",
+        "name": "TOPFLEX\u00ae",
+        "url": "https://www.topcable.com/company/our-brands/"
+      },
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.topcable.com/#organization"
+      },
+      "material": "Copper, class 5 (flexible)",
+      "audience": {
+        "@type": "BusinessAudience",
+        "audienceType": "Electrical Distributors, Electrical Installers, Engineers (Industrial Projects)"
+      },
+      "subjectOf": {
+        "@type": "DigitalDocument",
+        "name": "Ficha T\u00e9cnica - TOPFLEX\u00ae MS TRI-RATED H07V2-K",
+        "url": "https://www.topcable.com/downloads/pdf/es/topcable-datasheet-topflex-ms-tri-rated-h07v2-k-es.pdf",
+        "encodingFormat": "application/pdf",
+        "description": "Especificaciones t\u00e9cnicas completas, datos de ingenier\u00eda y certificaciones del cable."
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Conductor",
+          "value": "Cobre electrol\u00edtico recocido, clase 5 (flexible) seg\u00fan UNE-EN 60228, IEC 60228 y BS 6360",
+          "url": "https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=151-12-05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Insulation",
+          "value": "PVC flexible extra deslizante de alta temperatura de servicio tipo TI3 seg\u00fan EN 50363-3 y clase 43 seg\u00fan UL 1581"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Rated Voltage",
+          "value": "450/750 (H07V2-K), 300/500 (H05V2-K), 600/1000 (BS CK), 600 (UL AWM / CSA TEW)",
+          "unitText": "V"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Maximum Conductor Temperature",
+          "value": "90 (EN/BS), 105 (UL/CSA)",
+          "unitText": "\u00b0C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Maximum Short-Circuit Temperature",
+          "value": "160 (max. 5 s)",
+          "unitText": "\u00b0C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum Service Temperature",
+          "value": "-40 (est\u00e1tico con protecci\u00f3n)",
+          "unitText": "\u00b0C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Flame Non-Propagation",
+          "value": "No propagaci\u00f3n de la llama seg\u00fan UNE-EN 60332-1 / IEC 60332-1. VW1, FT1 y FT2 seg\u00fan UL 2556"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "CPR Classification",
+          "value": "Eca seg\u00fan EN 50575"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum Bending Radius",
+          "value": "5x di\u00e1metro exterior"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Chemical & Oil Resistance",
+          "value": "Aceptable"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Water Resistance",
+          "value": "AD3 aspersi\u00f3n"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Installation Conditions",
+          "value": "Entubado"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Standards (According To)",
+          "value": "EN 50525-2-31, BS 6231, UL 758, CSA C22.2"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Standards and Approvals",
+          "value": "HAR, AENOR, UL LISTED, RoHS, CE"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Typical Applications",
+          "value": "Uso industrial, Cableado de cuadros el\u00e9ctricos, Maquinaria"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "European Stock",
+          "value": "Largest European Stock Holding"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Manufacturing Quality",
+          "value": "As cable manufacturers, we ensure cost-effective premium quality and lasting performance."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Quality Testing",
+          "value": "Our in-house labs guarantee rigorous cable quality, reliability, and standards compliance."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Global Logistics",
+          "value": "Global cable delivery solutions\u2014expert logistics for seamless supply."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Fast Delivery",
+          "value": "Full cable stock, ready for fast delivery- shortest lead times."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Sustainability",
+          "value": "EPD-certified cables: Sustainable manufacturing for your Scope 3 success."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Customer Service",
+          "value": "Expert, friendly and professional sales team offering a fast & efficient customer service. Global customers are welcome!"
+        }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.topcable.com/es/cable/topflex-ms-tri-rated-h07v2-k/",
+        "priceCurrency": "EUR",
+        "price": 0,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "eligibleRegion": {
+          "@type": "Place",
+          "name": "World"
+        },
+        "seller": {
+          "@type": "Organization",
+          "@id": "https://www.topcable.com/#organization"
+        }
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://www.topcable.com/es/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cables para cuadros el\u00e9ctricos",
+          "item": "https://www.topcable.com/es/cables-para-cuadros-electricos/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "TOPFLEX\u00ae MS TRI-RATED H07V2-K"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.topcable.com/#organization",
+      "name": "Top Cable",
+      "url": "https://www.topcable.com/",
+      "email": "sales@topcable.com",
+      "telephone": "+34 935 880 911",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Carrer de Leonardo da Vinci, 1",
+        "addressLocality": "Rub\u00ed",
+        "addressRegion": "Barcelona",
+        "postalCode": "08191",
+        "addressCountry": "ES"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://www.topcable.com/#logo",
+        "url": "https://www.topcable.com/wp-content/uploads/2026/01/top-cable-logo.png",
+        "contentUrl": "https://www.topcable.com/wp-content/uploads/2026/01/top-cable-logo.png"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/topcable/",
+        "https://www.youtube.com/@Topcable_europe",
+        "https://www.instagram.com/topcable_spain/",
+        "https://www.facebook.com/topcable/"
+      ]
+    }
+  ]
+}

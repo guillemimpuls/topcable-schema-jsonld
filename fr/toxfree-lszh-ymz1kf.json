@@ -1,0 +1,269 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "name": "TOXFREE® LSZH YMz1Kf",
+      "mpn": "YMz1Kf",
+      "sku": "YMz1Kf",
+      "description": "C\u00e2ble souple de transmission et sans halog\u00e8ne (LSZH) pour lieux publics. SELON: IEC 60502-1 / UNE 21123-4. Le c\u00e2ble Toxfree\u00ae LSZH YMz1Kf est un c\u00e2ble de s\u00e9curit\u00e9. En cas d\u2019incendie, il n\u2019\u00e9met pas de gaz toxiques ni corrosifs, \u00e9vitant ainsi de nuire aux usagers ou d\u2019occasionner des dommages sur les \u00e9quipements \u00e9lectroniques. C\u2019est pourquoi, il est fortement recommand\u00e9 dans les lieux publics tels que les h\u00f4pitaux, \u00e9coles, mus\u00e9es, a\u00e9roports, terminaux de bus, centres commerciaux, bureaux, laboratoires, etc.",
+      "image": [
+        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-toxfree-lszh-ymz1kf-flexible-lshf-power-cable-for-public-places-01.png",
+        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_TOXFREE_ZH_YMZ1KF.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/bobina_verde.png"
+      ],
+      "url": "https://www.topcable.com/fr/cable/toxfree-lszh-ymz1kf/",
+      "category": "Hardware > Building Materials > Wiring & Cables > Electrical Cables",
+      "brand": {
+        "@type": "Brand",
+        "name": "TOXFREE\u00ae",
+        "url": "https://www.topcable.com/company/our-brands/"
+      },
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.topcable.com/#organization"
+      },
+      "material": "Cuivre \u00e9lectrolytique, classe 5 (souple)",
+      "audience": {
+        "@type": "BusinessAudience",
+        "audienceType": "Electrical Distributors, Electrical Installers, Engineers (Public Buildings & Hospitals), Engineers (Industrial Projects)"
+      },
+      "subjectOf": {
+        "@type": "DigitalDocument",
+        "name": "Fiche Technique - TOXFREE\u00ae LSZH YMz1Kf",
+        "url": "https://www.topcable.com/downloads/pdf/fr/topcable-datasheet-toxfree-lszh-ymz1kf-fr.pdf",
+        "encodingFormat": "application/pdf",
+        "description": "Sp\u00e9cifications techniques compl\u00e8tes, donn\u00e9es d\u2019ing\u00e9nierie et certifications du c\u00e2ble."
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "\u00c2me",
+          "value": "Cuivre \u00e9lectrolytique, classe 5 (souple) selon EN 60228 et IEC 60228",
+          "url": "https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=151-12-05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Isolation",
+          "value": "Poly\u00e9thyl\u00e8ne r\u00e9ticul\u00e9 type XLPE selon IEC 60502-1 et type DIX-3 selon HD 603"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gaine ext\u00e9rieure",
+          "value": "Poly\u00e9l\u00e9fine ignifug\u00e9e, \u00e0 faible d\u00e9gagement de fum\u00e9e et sans halog\u00e8ne, type ST8 selon IEC 60502-1 et type DMZ-E selon UNE 21123-4. Couleur verte."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tension nominale",
+          "value": "0,6/1",
+          "unitText": "kV"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Temp\u00e9rature maximale du conducteur",
+          "value": "90",
+          "unitText": "\u00b0C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Temp\u00e9rature maximale de court-circuit",
+          "value": "250 (max. 5 s)",
+          "unitText": "\u00b0C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Temp\u00e9rature minimale de service",
+          "value": "-40 (installations fixes et prot\u00e9g\u00e9es)",
+          "unitText": "\u00b0C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Temp\u00e9rature minimale d\u2019installation et de manipulation",
+          "value": "-0",
+          "unitText": "\u00b0C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Non propagation de la flamme",
+          "value": "Non propagation de la flamme selon IEC 60332-1 / EN 60332-1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Non propagation de l\u2019incendie",
+          "value": "Non propagation de l\u2019incendie selon EN 60332-3 / IEC 60332-3 et EN 50399"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Classification RPC",
+          "value": "B2ca-s1a,d1,a1 ou Cca-s1a,d1,a1 (selon section transversale) selon EN 50575"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Sans halog\u00e8ne",
+          "value": "Sans halog\u00e8ne et \u00e0 faible \u00e9mission de fum\u00e9e selon EN 60754-1 / IEC 60754-1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Faible \u00e9mission de fum\u00e9e",
+          "value": "Faible \u00e9mission de fum\u00e9e selon EN 61034 / IEC 61034"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Transmittance de la lumi\u00e8re",
+          "value": "> 80%"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Faible \u00e9mission de gaz corrosifs",
+          "value": "Faible \u00e9mission de gaz corrosifs selon UNE-EN 60754-2 / IEC 60754-2"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Rayon de courbure minimum",
+          "value": "5x diam\u00e8tre du c\u00e2ble"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "R\u00e9sistance aux chocs",
+          "value": "AG2 impact moyen"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "R\u00e9sistance chimique & aux huiles",
+          "value": "Acceptable"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "R\u00e9sistance aux UV",
+          "value": "R\u00e9sistance aux UV selon EN 50618"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pr\u00e9sence d\u2019eau",
+          "value": "AD8 Submersion"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Conditions d\u2019installation",
+          "value": "\u00c0 l\u2019air libre, Enterr\u00e9, En canalisation"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Normes (Selon)",
+          "value": "IEC 60502-1, UNE 21123-4"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Certifications",
+          "value": "AENOR, KEMA-KEUR, RoHS, CE"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Applications typiques",
+          "value": "Usage industriel, Lieux publics (h\u00f4pitaux, \u00e9coles, mus\u00e9es, a\u00e9roports, terminaux de bus, centres commerciaux, bureaux, laboratoires)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "European Stock",
+          "value": "Largest European Stock Holding"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Manufacturing Quality",
+          "value": "As cable manufacturers, we ensure cost-effective premium quality and lasting performance."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Quality Testing",
+          "value": "Our in-house labs guarantee rigorous cable quality, reliability, and standards compliance."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Global Logistics",
+          "value": "Global cable delivery solutions\u2014expert logistics for seamless supply."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Fast Delivery",
+          "value": "Full cable stock, ready for fast delivery- shortest lead times."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Sustainability",
+          "value": "EPD-certified cables: Sustainable manufacturing for your Scope 3 success."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Customer Service",
+          "value": "Expert, friendly and professional sales team offering a fast & efficient customer service. Global customers are welcome!"
+        }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.topcable.com/fr/cable/toxfree-lszh-ymz1kf/",
+        "priceCurrency": "EUR",
+        "price": 0,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "eligibleRegion": {
+          "@type": "Place",
+          "name": "World"
+        },
+        "seller": {
+          "@type": "Organization",
+          "@id": "https://www.topcable.com/#organization"
+        }
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Accueil",
+          "item": "https://www.topcable.com/fr/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "C\u00e2bles de s\u00e9curit\u00e9 LSOH",
+          "item": "https://www.topcable.com/fr/lsoh-safety-cables/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "TOXFREE\u00ae LSZH YMz1Kf"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.topcable.com/#organization",
+      "name": "Top Cable",
+      "url": "https://www.topcable.com/",
+      "email": "sales@topcable.com",
+      "telephone": "+34 935 880 911",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Carrer de Leonardo da Vinci, 1",
+        "addressLocality": "Rub\u00ed",
+        "addressRegion": "Barcelona",
+        "postalCode": "08191",
+        "addressCountry": "ES"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://www.topcable.com/#logo",
+        "url": "https://www.topcable.com/wp-content/uploads/2026/01/top-cable-logo.png",
+        "contentUrl": "https://www.topcable.com/wp-content/uploads/2026/01/top-cable-logo.png"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/topcable/",
+        "https://www.youtube.com/@Topcable_europe",
+        "https://www.instagram.com/topcable_spain/",
+        "https://www.facebook.com/topcable/"
+      ]
+    }
+  ]
+}

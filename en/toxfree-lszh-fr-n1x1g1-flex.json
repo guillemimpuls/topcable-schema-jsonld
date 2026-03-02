@@ -1,0 +1,269 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "name": "TOXFREE® LSZH FR-N1X1G1 Flex",
+      "mpn": "FR-N1X1G1 Flex",
+      "sku": "FR-N1X1G1-Flex",
+      "description": "Halogen free (LSZH) flexible power cable for public places and high-rise buildings (ERP & IGH). BASED ON: NF C 32-323. ACCORDING TO: IEC 60502-1. Toxfree® LSZH FR-N1X1G1 Flex is a LSZH safety cable. In the event of fire, it does not emit toxic gases, nor does it give off corrosive gases, avoiding any possible damage to people or electronic equipment. For these reasons it is highly recommended for use in public places such as: hospitals, schools, museums, airports, bus terminals, shopping centres, offices, laboratories, etc.",
+      "image": [
+        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-toxfree-lszh-fr-n1x1g1-flex-halogen-free-power-cable-for-public-places-01.png",
+        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_TOXFREE_ZH_N1_X1G1_Flex.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/bobina_verde.png"
+      ],
+      "url": "https://www.topcable.com/cable/toxfree-lszh-fr-n1x1g1-flex/",
+      "category": "Hardware > Building Materials > Wiring & Cables > Electrical Cables",
+      "brand": {
+        "@type": "Brand",
+        "name": "TOXFREE®",
+        "url": "https://www.topcable.com/company/our-brands/"
+      },
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.topcable.com/#organization"
+      },
+      "material": "Copper, class 5 (flexible)",
+      "audience": {
+        "@type": "BusinessAudience",
+        "audienceType": "Electrical Distributors, Electrical Installers, Engineers (Public Buildings & Hospitals), Engineers (Industrial Projects)"
+      },
+      "subjectOf": {
+        "@type": "DigitalDocument",
+        "name": "Technical Datasheet - TOXFREE® LSZH FR-N1X1G1 Flex",
+        "url": "https://www.topcable.com/downloads/pdf/en/topcable-datasheet-toxfree-lszh-fr-n1x1g1-flex-en.pdf",
+        "encodingFormat": "application/pdf",
+        "description": "Complete technical specifications, engineering data and certifications for the cable."
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Conductor",
+          "value": "Electrolytic annealed copper, class 5 (flexible), according to EN 60228 and IEC 60228",
+          "url": "https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=151-12-05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Insulation",
+          "value": "Cross-linked polyethylene type XLPE according to IEC 60502-1 and type DIX-3 according to HD 603"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Outer Sheath",
+          "value": "Low Smoke Halogen Free polyolefin, type ST8 according to IEC 60502-1. Green colour."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Rated Voltage",
+          "value": "0,6/1",
+          "unitText": "kV"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Maximum Conductor Temperature",
+          "value": "90",
+          "unitText": "\u00b0C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Maximum Short-Circuit Temperature",
+          "value": "250 (max. 5 s)",
+          "unitText": "\u00b0C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum Service Temperature",
+          "value": "-40 (fixed and protected installations)",
+          "unitText": "\u00b0C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum Installation and Handling Temperature",
+          "value": "-0",
+          "unitText": "\u00b0C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Flame Non-Propagation",
+          "value": "Flame non-propagation according to IEC 60332-1 / EN 60332-1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Fire Non-Propagation",
+          "value": "Fire non-propagation according to NF EN IEC 60332-3 and EN 50399"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "CPR Classification",
+          "value": "B2ca-s1a,d1,a1 or Cca-s1a,d1,a1 (according to cross-section) according to EN 50575"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Halogen Free",
+          "value": "Low Smoke Halogen Free according to EN 60754-1 / IEC 60754-1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Low Smoke Emission",
+          "value": "Low smoke emission according to EN 61034 / IEC 61034"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Light Transmittance",
+          "value": "> 80%"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Low Corrosive Gases Emission",
+          "value": "Low corrosive gases emission according to EN 60754-2 / IEC 60754-2"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum Bending Radius",
+          "value": "5x cable diameter"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Impact Resistance",
+          "value": "AG2 Medium severity"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Chemical & Oil Resistance",
+          "value": "Acceptable"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "UV Resistance",
+          "value": "UV Resistant according to EN 50618"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Water Resistance",
+          "value": "AD8 Submersion"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Installation Conditions",
+          "value": "Open Air, Buried, In conduit"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Standards (Based On / According To)",
+          "value": "NF C 32-323 / NF C15-100, IEC 60502-1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Standards and Approvals",
+          "value": "AENOR, KEMA-KEUR, RoHS, CE"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Typical Applications",
+          "value": "Industrial facilities, Public places (hospitals, schools, museums, airports, bus terminals, shopping centres, offices, laboratories), ERP, IGH, Underground stations, Data Centers"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "European Stock",
+          "value": "Largest European Stock Holding"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Manufacturing Quality",
+          "value": "As cable manufacturers, we ensure cost-effective premium quality and lasting performance."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Quality Testing",
+          "value": "Our in-house labs guarantee rigorous cable quality, reliability, and standards compliance."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Global Logistics",
+          "value": "Global cable delivery solutions\u2014expert logistics for seamless supply."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Fast Delivery",
+          "value": "Full cable stock, ready for fast delivery- shortest lead times."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Sustainability",
+          "value": "EPD-certified cables: Sustainable manufacturing for your Scope 3 success."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Customer Service",
+          "value": "Expert, friendly and professional sales team offering a fast & efficient customer service. Global customers are welcome!"
+        }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.topcable.com/cable/toxfree-lszh-fr-n1x1g1-flex/",
+        "priceCurrency": "EUR",
+        "price": 0,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "eligibleRegion": {
+          "@type": "Place",
+          "name": "World"
+        },
+        "seller": {
+          "@type": "Organization",
+          "@id": "https://www.topcable.com/#organization"
+        }
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.topcable.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "LSOH Safety Cables",
+          "item": "https://www.topcable.com/lsoh-safety-cables/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "TOXFREE® LSZH FR-N1X1G1 Flex"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.topcable.com/#organization",
+      "name": "Top Cable",
+      "url": "https://www.topcable.com/",
+      "email": "sales@topcable.com",
+      "telephone": "+34 935 880 911",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Carrer de Leonardo da Vinci, 1",
+        "addressLocality": "Rub\u00ed",
+        "addressRegion": "Barcelona",
+        "postalCode": "08191",
+        "addressCountry": "ES"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://www.topcable.com/#logo",
+        "url": "https://www.topcable.com/wp-content/uploads/2026/01/top-cable-logo.png",
+        "contentUrl": "https://www.topcable.com/wp-content/uploads/2026/01/top-cable-logo.png"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/topcable/",
+        "https://www.youtube.com/@Topcable_europe",
+        "https://www.instagram.com/topcable_spain/",
+        "https://www.facebook.com/topcable/"
+      ]
+    }
+  ]
+}
