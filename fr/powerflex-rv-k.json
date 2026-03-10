@@ -3,179 +3,179 @@
   "@graph": [
     {
       "@type": "Product",
-      "name": "POWERFLEX\u00ae RV-K",
+      "name": "POWERFLEX® RV-K",
       "mpn": "RV-K",
       "sku": "RV-K",
-      "description": "C\u00e2ble industriel souple pour la transmission d'\u00e9nergie. SELON: IEC 60502-1 / UNE 21123-2. Le c\u00e2ble POWERFLEX\u00ae RV-K convient \u00e0 tous les types de connexions industrielles de basse tension, r\u00e9seaux urbains, installations domestiques, etc. Sa flexibilit\u00e9 facilite consid\u00e9rablement le processus d'installation et en fait un c\u00e2ble tout particuli\u00e8rement adapt\u00e9 aux trac\u00e9s complexes.",
+      "description": "Câble industriel souple pour la transmission d'énergie. SELON: IEC 60502-1 / UNE 21123-2. Le câble POWERFLEX® RV-K convient à tous les types de connexions industrielles de basse tension, réseaux urbains, installations domestiques, etc. Sa flexibilité facilite considérablement le processus d'installation et en fait un câble tout particulièrement adapté aux tracés complexes.",
       "image": [
-        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-powerflex-rv-k-industrial-flexible-cable-for-power-transmission-01.png",
-        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_POWERFLEX_RV-K.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-rv-k-industrial-flexible-cable-for-power-transmission-01.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_POWERFLEX_RV_K.webp",
         "https://www.topcable.com/wp-content/uploads/2025/07/bobina_negra.png"
       ],
       "url": "https://www.topcable.com/fr/cable/powerflex-rv-k/",
-      "category": "Hardware > Building Materials > Wiring & Cables > Electrical Cables",
+      "category": "Quincaillerie > Matériaux de construction > Câblage et câbles > Câbles électriques",
       "brand": {
         "@type": "Brand",
-        "name": "POWERFLEX\u00ae",
+        "name": "POWERFLEX®",
         "url": "https://www.topcable.com/company/our-brands/"
       },
       "manufacturer": {
         "@type": "Organization",
         "@id": "https://www.topcable.com/#organization"
       },
-      "material": "Copper, class 5 (flexible)",
+      "material": "Cuivre, classe 5 (souple)",
       "audience": {
         "@type": "BusinessAudience",
-        "audienceType": "Electrical Distributors, Electrical Installers, Engineers (Industrial Projects)"
+        "audienceType": "Distributeurs électriques, Installateurs électriques, Ingénieurs (Projets industriels)"
       },
       "subjectOf": {
         "@type": "DigitalDocument",
-        "name": "Fiche Technique - POWERFLEX\u00ae RV-K",
+        "name": "Fiche Technique - POWERFLEX® RV-K",
         "url": "https://www.topcable.com/downloads/pdf/fr/topcable-datasheet-powerflex-rv-k-fr.pdf",
         "encodingFormat": "application/pdf",
-        "description": "Sp\u00e9cifications techniques compl\u00e8tes, donn\u00e9es d'ing\u00e9nierie et certifications du c\u00e2ble."
+        "description": "Spécifications techniques complètes, données d'ingénierie et certifications du câble."
       },
       "additionalProperty": [
         {
           "@type": "PropertyValue",
-          "name": "Conductor",
-          "value": "Cuivre \u00e9lectrolytique, classe 5 (souple) selon EN 60228 et IEC 60228",
+          "name": "Conducteur",
+          "value": "Cuivre électrolytique, classe 5 (souple) selon EN 60228 et IEC 60228",
           "url": "https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=151-12-05"
         },
         {
           "@type": "PropertyValue",
-          "name": "Insulation",
-          "value": "Poly\u00e9thyl\u00e8ne r\u00e9ticul\u00e9 type DIX-3 selon HD 603-1 et type XLPE selon IEC 60502-1"
+          "name": "Isolation",
+          "value": "Polyéthylène réticulé type DIX-3 selon HD 603-1 et type XLPE selon IEC 60502-1"
         },
         {
           "@type": "PropertyValue",
-          "name": "Outer Sheath",
+          "name": "Gaine extérieure",
           "value": "PVC souple type DMV-18 selon HD 603-1 et type ST2 selon IEC 60502-1"
         },
         {
           "@type": "PropertyValue",
-          "name": "Rated Voltage",
+          "name": "Tension nominale",
           "value": "0,6/1",
           "unitText": "kV"
         },
         {
           "@type": "PropertyValue",
-          "name": "Maximum Conductor Temperature",
+          "name": "Température maximale du conducteur",
           "value": "90",
-          "unitText": "\u00b0C"
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
-          "name": "Maximum Short-Circuit Temperature",
+          "name": "Température maximale de court-circuit",
           "value": "250 (max. 5 s)",
-          "unitText": "\u00b0C"
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
-          "name": "Minimum Service Temperature",
-          "value": "-40 (installations fixes et prot\u00e9g\u00e9es)",
-          "unitText": "\u00b0C"
+          "name": "Température minimale de service",
+          "value": "-40 (installations fixes et protégées)",
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
-          "name": "Minimum Installation Temperature",
-          "value": "0 (sur la surface du c\u00e2ble)",
-          "unitText": "\u00b0C"
+          "name": "Température minimale d'installation",
+          "value": "0 (sur la surface du câble)",
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
-          "name": "Flame Non-Propagation",
-          "value": "Non propagation de la flamme selon EN 60332-1 / IEC 60332-1"
+          "name": "Non-propagation de la flamme",
+          "value": "Non-propagation de la flamme selon EN 60332-1 et IEC 60332-1"
         },
         {
           "@type": "PropertyValue",
-          "name": "CPR Classification",
+          "name": "Classification CPR",
           "value": "Eca selon EN 50575"
         },
         {
           "@type": "PropertyValue",
-          "name": "Reduced Halogen Emission",
-          "value": "\u00c9mission r\u00e9duite d'halog\u00e8nes. Chlore < 15%"
+          "name": "Émission réduite d'halogènes",
+          "value": "Émission réduite d'halogènes. Chlore < 15%"
         },
         {
           "@type": "PropertyValue",
-          "name": "Minimum Bending Radius",
-          "value": "5x diam\u00e8tre du c\u00e2ble (diam\u00e8tre du c\u00e2ble \u2264 50 mm), 6x diam\u00e8tre du c\u00e2ble (diam\u00e8tre du c\u00e2ble > 50 mm)"
+          "name": "Rayon de courbure minimum",
+          "value": "5x diamètre du câble (diamètre du câble ≤ 50 mm), 6x diamètre du câble (diamètre du câble > 50 mm)"
         },
         {
           "@type": "PropertyValue",
-          "name": "Impact Resistance",
-          "value": "AG2 Gravit\u00e9 moyenne"
+          "name": "Résistance aux chocs",
+          "value": "AG2 Sévérité moyenne"
         },
         {
           "@type": "PropertyValue",
-          "name": "Chemical & Oil Resistance",
+          "name": "Résistance chimique et aux huiles",
           "value": "Bonne"
         },
         {
           "@type": "PropertyValue",
-          "name": "UV Resistance",
-          "value": "R\u00e9sistance aux UV selon UNE 211605"
+          "name": "Résistance aux UV",
+          "value": "Résistance aux UV selon UNE 211605"
         },
         {
           "@type": "PropertyValue",
-          "name": "Water Resistance",
+          "name": "Résistance à l'eau",
           "value": "AD8 Submersion"
         },
         {
           "@type": "PropertyValue",
-          "name": "Installation Conditions",
-          "value": "\u00c0 l'air libre, Enterr\u00e9, En canalisation, En plateau"
+          "name": "Conditions d'installation",
+          "value": "À l'air libre, Enterré, En canalisation, En plateau"
         },
         {
           "@type": "PropertyValue",
-          "name": "Standards (According To)",
+          "name": "Normes (Selon)",
           "value": "IEC 60502-1, UNE 21123-2"
         },
         {
           "@type": "PropertyValue",
-          "name": "Standards and Approvals",
+          "name": "Normes et approbations",
           "value": "AENOR, BUREAU VERITAS, RETIE, KEMA-KEUR, RoHS, CE"
         },
         {
           "@type": "PropertyValue",
-          "name": "Typical Applications",
-          "value": "Installations industrielles, R\u00e9seaux urbains, Installations dans les b\u00e2timents, \u00c9clairage ext\u00e9rieur"
+          "name": "Applications typiques",
+          "value": "Installations industrielles, Réseaux urbains, Installations dans les bâtiments, Éclairage extérieur"
         },
         {
           "@type": "PropertyValue",
-          "name": "European Stock",
-          "value": "Largest European Stock Holding"
+          "name": "Stock européen",
+          "value": "Le plus grand stock européen de câbles"
         },
         {
           "@type": "PropertyValue",
-          "name": "Manufacturing Quality",
-          "value": "As cable manufacturers, we ensure cost-effective premium quality and lasting performance."
+          "name": "Qualité de fabrication",
+          "value": "En tant que fabricants de câbles, nous garantissons une qualité premium rentable et des performances durables."
         },
         {
           "@type": "PropertyValue",
-          "name": "Quality Testing",
-          "value": "Our in-house labs guarantee rigorous cable quality, reliability, and standards compliance."
+          "name": "Contrôle de qualité",
+          "value": "Nos laboratoires internes garantissent une qualité rigoureuse des câbles, fiabilité et conformité aux normes."
         },
         {
           "@type": "PropertyValue",
-          "name": "Global Logistics",
-          "value": "Global cable delivery solutions\u2014expert logistics for seamless supply."
+          "name": "Logistique mondiale",
+          "value": "Solutions logistiques mondiales pour câbles — expertise logistique pour un approvisionnement sans faille."
         },
         {
           "@type": "PropertyValue",
-          "name": "Fast Delivery",
-          "value": "Full cable stock, ready for fast delivery- shortest lead times."
+          "name": "Livraison rapide",
+          "value": "Stock complet de câbles, prêt pour une livraison rapide — délais les plus courts."
         },
         {
           "@type": "PropertyValue",
-          "name": "Sustainability",
-          "value": "EPD-certified cables: Sustainable manufacturing for your Scope 3 success."
+          "name": "Durabilité",
+          "value": "Câbles certifiés EPD : fabrication durable pour votre succès Scope 3."
         },
         {
           "@type": "PropertyValue",
-          "name": "Customer Service",
-          "value": "Expert, friendly and professional sales team offering a fast & efficient customer service. Global customers are welcome!"
+          "name": "Service client",
+          "value": "Équipe commerciale experte, conviviale et professionnelle offrant un service client rapide et efficace. Clients internationaux bienvenus !"
         }
       ],
       "offers": {
@@ -207,13 +207,13 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "C\u00e2bles de puissance",
+          "name": "Câbles de puissance",
           "item": "https://www.topcable.com/fr/cables-de-puissance/"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "POWERFLEX\u00ae RV-K"
+          "name": "POWERFLEX® RV-K"
         }
       ]
     },
@@ -227,7 +227,7 @@
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Carrer de Leonardo da Vinci, 1",
-        "addressLocality": "Rub\u00ed",
+        "addressLocality": "Rubí",
         "addressRegion": "Barcelona",
         "postalCode": "08191",
         "addressCountry": "ES"

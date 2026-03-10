@@ -3,20 +3,19 @@
   "@graph": [
     {
       "@type": "Product",
-      "name": "TOPDRIVE\u00ae VFD EMC ROZ1-K 0.6/1kV",
+      "name": "TOPDRIVE® VFD EMC ROZ1-K 0.6/1kV",
       "mpn": "ROZ1-K (AS) 0.6/1kV",
       "sku": "ROZ1-K (AS) 0.6/1kV",
-      "description": "Flexible LSZH screened cable for Variable Frequency Drive cables (VFD cables). ACCORDING TO: IEC 60502-1 / IEC 60092-353. TOPDRIVE\u00ae VFD (EMC) ROZ1-K (AS) cable has been specially designed for Variable Frequency Drive Motors and installations where it is necessary to limit the effects of electromagnetic interference (EMI). This is a flexible cable for fixed installations, for variable speed motors or pumps.",
+      "description": "Flexible LSZH screened cable for Variable Frequency Drive cables (VFD cables). ACCORDING TO: IEC 60502-1 / IEC 60092-353. TOPDRIVE® VFD (EMC) ROZ1-K (AS) cable has been specially designed for Variable Frequency Drive Motors and installations where it is necessary to limit the effects of electromagnetic interference (EMI). This is a flexible cable for fixed installations, for variable speed motors or pumps.",
       "image": [
-        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-topdrive-vfd-emc-roz1-k-06-1kv-flexible-LSZH-screened-cable-for-vfd-01.png",
-        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_TOPDRIVE_VFD_EMC.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_TOPDRIVE_VFD_ROZ1_K.webp",
         "https://www.topcable.com/wp-content/uploads/2025/07/bobina_negra.png"
       ],
       "url": "https://www.topcable.com/cable/topdrive-vfd-emc-roz1-k-06-1kv/",
       "category": "Hardware > Building Materials > Wiring & Cables > Electrical Cables",
       "brand": {
         "@type": "Brand",
-        "name": "TOPDRIVE\u00ae",
+        "name": "TOPDRIVE®",
         "url": "https://www.topcable.com/company/our-brands/"
       },
       "manufacturer": {
@@ -26,11 +25,11 @@
       "material": "Copper, class 5 (flexible)",
       "audience": {
         "@type": "BusinessAudience",
-        "audienceType": "Engineers (Industrial Projects), Electrical Distributors"
+        "audienceType": "Electrical Distributors, Electrical Installers, Engineers (Industrial Projects)"
       },
       "subjectOf": {
         "@type": "DigitalDocument",
-        "name": "Technical Datasheet - TOPDRIVE\u00ae VFD EMC ROZ1-K 0.6/1kV",
+        "name": "Technical Datasheet - TOPDRIVE® VFD EMC ROZ1-K 0.6/1kV",
         "url": "https://www.topcable.com/downloads/pdf/en/topcable-datasheet-topdrive-vfd-emc-roz1-k-0-6-1kv-en.pdf",
         "encodingFormat": "application/pdf",
         "description": "Complete technical specifications, engineering data and certifications for the cable."
@@ -45,7 +44,7 @@
         {
           "@type": "PropertyValue",
           "name": "Insulation",
-          "value": "Cross-linked polyethylene type XLPE according to IEC 60502-1, type HF XLPE 90\u00b0C according to IEC 60092-360"
+          "value": "Cross-linked polyethylene type XLPE according to IEC 60502-1, type HF XLPE 90°C according to IEC 60092-360"
         },
         {
           "@type": "PropertyValue",
@@ -62,25 +61,25 @@
           "@type": "PropertyValue",
           "name": "Maximum Conductor Temperature",
           "value": "90",
-          "unitText": "\u00b0C"
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
           "name": "Maximum Short-Circuit Temperature",
           "value": "250 (max. 5 s)",
-          "unitText": "\u00b0C"
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
           "name": "Minimum Service Temperature",
           "value": "-40 (fixed and protected installations)",
-          "unitText": "\u00b0C"
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
           "name": "Minimum Installation Temperature",
           "value": "0 (on cable surface)",
-          "unitText": "\u00b0C"
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
@@ -180,7 +179,7 @@
         {
           "@type": "PropertyValue",
           "name": "Global Logistics",
-          "value": "Global cable delivery solutions\u2014expert logistics for seamless supply."
+          "value": "Global cable delivery solutions—expert logistics for seamless supply."
         },
         {
           "@type": "PropertyValue",
@@ -233,7 +232,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "TOPDRIVE\u00ae VFD EMC ROZ1-K 0.6/1kV"
+          "name": "TOPDRIVE® VFD EMC ROZ1-K 0.6/1kV"
         }
       ]
     },
@@ -247,7 +246,7 @@
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Carrer de Leonardo da Vinci, 1",
-        "addressLocality": "Rub\u00ed",
+        "addressLocality": "Rubí",
         "addressRegion": "Barcelona",
         "postalCode": "08191",
         "addressCountry": "ES"

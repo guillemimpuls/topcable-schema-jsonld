@@ -3,173 +3,173 @@
   "@graph": [
     {
       "@type": "Product",
-      "name": "TOXFREE\u00ae LSZH H05Z-K & H07Z-K",
+      "name": "TOXFREE® LSZH H05Z-K & H07Z-K",
       "mpn": "H05Z-K / H07Z-K",
       "sku": "H05Z-K / H07Z-K",
-      "description": "Cable flexible y libre de hal\u00f3genos a 90\u00b0C para el cableado de cuadros el\u00e9ctricos. NORMA DE REFERENCIA: EN 50525-3-41. Toxfree\u00ae LSZH H05Z-K & H07Z-K es un cable flexible para instalaciones fijas y protegidas. Es muy recomendable para uso en lugares p\u00fablicos como: hospitales, escuelas, museos, aeropuertos, terminales de autobuses, centros comerciales, oficinas, laboratorios, etc.",
+      "description": "Cable flexible y libre de halógenos a 90°C para el cableado de cuadros eléctricos. NORMA DE REFERENCIA: EN 50525-3-41. Toxfree® LSZH H05Z-K & H07Z-K es un cable flexible para instalaciones fijas y protegidas. Es muy recomendable para uso en lugares públicos como: hospitales, escuelas, museos, aeropuertos, terminales de autobuses, centros comerciales, oficinas, laboratorios, etc.",
       "image": [
-        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-toxfree-lszh-h05z-k-h07z-k-halogen-free-cable-for-electrical-panel-wiring-01.png",
-        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_TOXFREE_LSZH.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-h05z-k-h07z-k-flexible-and-halogen-free-power-cable-for-public-places-01.png",
+        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_TOXFREE_ZH_H07Z_K.webp",
         "https://www.topcable.com/wp-content/uploads/2025/07/bobina_negra.png"
       ],
       "url": "https://www.topcable.com/es/cable/toxfree-lszh-h05z-k-h07z-k/",
-      "category": "Hardware > Building Materials > Wiring & Cables > Electrical Cables",
+      "category": "Ferretería > Materiales de construcción > Cableado y cables > Cables eléctricos",
       "brand": {
         "@type": "Brand",
-        "name": "TOXFREE\u00ae",
+        "name": "TOXFREE®",
         "url": "https://www.topcable.com/company/our-brands/"
       },
       "manufacturer": {
         "@type": "Organization",
         "@id": "https://www.topcable.com/#organization"
       },
-      "material": "Copper, class 5 (flexible)",
+      "material": "Cobre, clase 5 (flexible)",
       "audience": {
         "@type": "BusinessAudience",
-        "audienceType": "Electrical Distributors, Electrical Installers, Engineers (Industrial Projects)"
+        "audienceType": "Distribuidores eléctricos, Instaladores eléctricos, Ingenieros (Proyectos industriales)"
       },
       "subjectOf": {
         "@type": "DigitalDocument",
-        "name": "Ficha T\u00e9cnica - TOXFREE\u00ae LSZH H05Z-K & H07Z-K",
+        "name": "Ficha Técnica - TOXFREE® LSZH H05Z-K & H07Z-K",
         "url": "https://www.topcable.com/downloads/pdf/es/topcable-datasheet-toxfree-lszh-h05z-k-h07z-k-es.pdf",
         "encodingFormat": "application/pdf",
-        "description": "Especificaciones t\u00e9cnicas completas, datos de ingenier\u00eda y certificaciones del cable."
+        "description": "Especificaciones técnicas completas, datos de ingeniería y certificaciones del cable."
       },
       "additionalProperty": [
         {
           "@type": "PropertyValue",
           "name": "Conductor",
-          "value": "Cobre electrol\u00edtico recocido, clase 5 (flexible) seg\u00fan UNE 60228 e IEC 60228",
+          "value": "Cobre electrolítico recocido, clase 5 (flexible) según UNE 60228 e IEC 60228",
           "url": "https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=151-12-05"
         },
         {
           "@type": "PropertyValue",
-          "name": "Insulation",
-          "value": "Aislamiento de goma flexible termoestable libre de hal\u00f3genos, tipo EI5 seg\u00fan EN 50363-5"
+          "name": "Aislamiento",
+          "value": "Aislamiento de goma flexible termoestable libre de halógenos, tipo EI5 según EN 50363-5"
         },
         {
           "@type": "PropertyValue",
-          "name": "Rated Voltage",
+          "name": "Tensión nominal",
           "value": "300/500 (H05Z-K), 450/750 (H07Z-K)",
           "unitText": "V"
         },
         {
           "@type": "PropertyValue",
-          "name": "Maximum Conductor Temperature",
+          "name": "Temperatura máxima del conductor",
           "value": "90",
-          "unitText": "\u00b0C"
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
-          "name": "Maximum Short-Circuit Temperature",
+          "name": "Temperatura máxima de cortocircuito",
           "value": "250 (max. 5 s)",
-          "unitText": "\u00b0C"
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
-          "name": "Minimum Service Temperature",
+          "name": "Temperatura mínima de servicio",
           "value": "-40 (instalaciones fijas y protegidas)",
-          "unitText": "\u00b0C"
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
-          "name": "Flame Non-Propagation",
-          "value": "No propagaci\u00f3n de la llama seg\u00fan UNE-EN 60332-1 / IEC 60332-1"
+          "name": "No propagación de la llama",
+          "value": "No propagación de la llama según UNE-EN 60332-1 / IEC 60332-1"
         },
         {
           "@type": "PropertyValue",
-          "name": "Fire Non-Propagation",
-          "value": "No propagaci\u00f3n del incendio seg\u00fan UNE-EN 60332-3 / IEC 60332-3 y UNE-EN 50399"
+          "name": "No propagación del incendio",
+          "value": "No propagación del incendio según UNE-EN 60332-3 / IEC 60332-3 y UNE-EN 50399"
         },
         {
           "@type": "PropertyValue",
-          "name": "CPR Classification",
-          "value": "Dca-s1b, d1, a1 seg\u00fan EN 50575"
+          "name": "Clasificación CPR",
+          "value": "Dca-s1b, d1, a1 según EN 50575"
         },
         {
           "@type": "PropertyValue",
-          "name": "Halogen Free",
-          "value": "Libre de hal\u00f3genos seg\u00fan UNE-EN 60754-1 / IEC 60754-1"
+          "name": "Libre de halógenos",
+          "value": "Libre de halógenos según UNE-EN 60754-1 / IEC 60754-1"
         },
         {
           "@type": "PropertyValue",
-          "name": "Low Corrosive Gases Emission",
-          "value": "Baja emisi\u00f3n de gases corrosivos seg\u00fan UNE-EN 60754-2 / IEC 60754-2"
+          "name": "Baja emisión de gases corrosivos",
+          "value": "Baja emisión de gases corrosivos según UNE-EN 60754-2 / IEC 60754-2"
         },
         {
           "@type": "PropertyValue",
-          "name": "Low Smoke Emission",
-          "value": "Baja emisi\u00f3n de humos seg\u00fan UNE-EN 61034 / IEC 61034"
+          "name": "Baja emisión de humo",
+          "value": "Baja emisión de humos según UNE-EN 61034 / IEC 61034"
         },
         {
           "@type": "PropertyValue",
-          "name": "Light Transmittance",
+          "name": "Transmitancia luminosa",
           "value": "> 60%"
         },
         {
           "@type": "PropertyValue",
-          "name": "Minimum Bending Radius",
-          "value": "5x di\u00e1metro exterior"
+          "name": "Radio mínimo de curvatura",
+          "value": "5x diámetro exterior"
         },
         {
           "@type": "PropertyValue",
-          "name": "Chemical & Oil Resistance",
+          "name": "Resistencia química y a aceites",
           "value": "Aceptable"
         },
         {
           "@type": "PropertyValue",
-          "name": "Installation Conditions",
+          "name": "Condiciones de instalación",
           "value": "Entubado"
         },
         {
           "@type": "PropertyValue",
-          "name": "Standards (According To)",
+          "name": "Normas (Según)",
           "value": "EN 50525-3-41"
         },
         {
           "@type": "PropertyValue",
-          "name": "Standards and Approvals",
+          "name": "Normas y aprobaciones",
           "value": "HAR, AENOR, RoHS, CE"
         },
         {
           "@type": "PropertyValue",
-          "name": "Typical Applications",
-          "value": "Uso dom\u00e9stico, Lugares p\u00fablicos, Cableado de cuadros el\u00e9ctricos"
+          "name": "Aplicaciones típicas",
+          "value": "Uso doméstico, Lugares públicos, Cableado de cuadros eléctricos"
         },
         {
           "@type": "PropertyValue",
-          "name": "European Stock",
-          "value": "Largest European Stock Holding"
+          "name": "Stock europeo",
+          "value": "El mayor stock europeo de cables"
         },
         {
           "@type": "PropertyValue",
-          "name": "Manufacturing Quality",
-          "value": "As cable manufacturers, we ensure cost-effective premium quality and lasting performance."
+          "name": "Calidad de fabricación",
+          "value": "Como fabricantes de cables, garantizamos una calidad premium rentable y un rendimiento duradero."
         },
         {
           "@type": "PropertyValue",
-          "name": "Quality Testing",
-          "value": "Our in-house labs guarantee rigorous cable quality, reliability, and standards compliance."
+          "name": "Control de calidad",
+          "value": "Nuestros laboratorios internos garantizan una rigurosa calidad del cable, fiabilidad y cumplimiento normativo."
         },
         {
           "@type": "PropertyValue",
-          "name": "Global Logistics",
-          "value": "Global cable delivery solutions\u2014expert logistics for seamless supply."
+          "name": "Logística mundial",
+          "value": "Soluciones logísticas mundiales para cables — experiencia logística para un suministro sin interrupciones."
         },
         {
           "@type": "PropertyValue",
-          "name": "Fast Delivery",
-          "value": "Full cable stock, ready for fast delivery- shortest lead times."
+          "name": "Entrega rápida",
+          "value": "Stock completo de cables, listo para entrega rápida — plazos de entrega más cortos."
         },
         {
           "@type": "PropertyValue",
-          "name": "Sustainability",
-          "value": "EPD-certified cables: Sustainable manufacturing for your Scope 3 success."
+          "name": "Sostenibilidad",
+          "value": "Cables con certificación EPD: fabricación sostenible para su éxito en Scope 3."
         },
         {
           "@type": "PropertyValue",
-          "name": "Customer Service",
-          "value": "Expert, friendly and professional sales team offering a fast & efficient customer service. Global customers are welcome!"
+          "name": "Atención al cliente",
+          "value": "Equipo comercial experto, cercano y profesional ofreciendo una atención al cliente rápida y eficiente. ¡Clientes internacionales bienvenidos!"
         }
       ],
       "offers": {
@@ -201,13 +201,13 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Cables para cuadros el\u00e9ctricos",
+          "name": "Cables para cuadros eléctricos",
           "item": "https://www.topcable.com/es/cables-para-cuadros-electricos/"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "TOXFREE\u00ae LSZH H05Z-K & H07Z-K"
+          "name": "TOXFREE® LSZH H05Z-K & H07Z-K"
         }
       ]
     },
@@ -221,7 +221,7 @@
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Carrer de Leonardo da Vinci, 1",
-        "addressLocality": "Rub\u00ed",
+        "addressLocality": "Rubí",
         "addressRegion": "Barcelona",
         "postalCode": "08191",
         "addressCountry": "ES"

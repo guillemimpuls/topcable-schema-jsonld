@@ -6,51 +6,50 @@
       "name": "TOXFREE® LSZH FR-N1X1G1 Flex",
       "mpn": "FR-N1X1G1 Flex",
       "sku": "FR-N1X1G1-Flex",
-      "description": "C\u00e2ble souple de d\u2019\u00e9nergie sans halog\u00e8ne adapt\u00e9 aux ERP et IGH. BAS\u00c9 SUR: NF C 32-323. SELON: IEC 60502-1. Le c\u00e2ble Toxfree\u00ae LSZH FR-N1X1G1 Flex est un c\u00e2ble de s\u00e9curit\u00e9. En cas d\u2019incendie, il n\u2019\u00e9met pas de gaz toxiques ni corrosifs, \u00e9vitant ainsi de nuire aux usagers ou d\u2019occasionner des dommages sur les \u00e9quipements \u00e9lectroniques. C\u2019est pourquoi, il est fortement recommand\u00e9 dans les lieux publics tels que les h\u00f4pitaux, \u00e9coles, mus\u00e9es, a\u00e9roports, terminaux de bus, centres commerciaux, bureaux, laboratoires, etc.",
+      "description": "Câble souple de d’énergie sans halogène adapté aux ERP et IGH. BASÉ SUR: NF C 32-323. SELON: IEC 60502-1. Le câble Toxfree® LSZH FR-N1X1G1 Flex est un câble de sécurité. En cas d’incendie, il n’émet pas de gaz toxiques ni corrosifs, évitant ainsi de nuire aux usagers ou d’occasionner des dommages sur les équipements électroniques. C’est pourquoi, il est fortement recommandé dans les lieux publics tels que les hôpitaux, écoles, musées, aéroports, terminaux de bus, centres commerciaux, bureaux, laboratoires, etc.",
       "image": [
-        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-toxfree-lszh-fr-n1x1g1-flex-halogen-free-power-cable-for-public-places-01.png",
-        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_TOXFREE_ZH_N1_X1G1_Flex.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-fr-n1x1g1-flex-flexible-lszh-power-cable-for-public-places-erp-and-igh-01.png",
         "https://www.topcable.com/wp-content/uploads/2025/07/bobina_verde.png"
       ],
       "url": "https://www.topcable.com/fr/cable/toxfree-lszh-fr-n1x1g1-flex/",
-      "category": "Hardware > Building Materials > Wiring & Cables > Electrical Cables",
+      "category": "Quincaillerie > Matériaux de construction > Câblage et câbles > Câbles électriques",
       "brand": {
         "@type": "Brand",
-        "name": "TOXFREE\u00ae",
+        "name": "TOXFREE®",
         "url": "https://www.topcable.com/company/our-brands/"
       },
       "manufacturer": {
         "@type": "Organization",
         "@id": "https://www.topcable.com/#organization"
       },
-      "material": "Cuivre \u00e9lectrolytique, classe 5 (souple)",
+      "material": "Cuivre électrolytique, classe 5 (souple)",
       "audience": {
         "@type": "BusinessAudience",
-        "audienceType": "Electrical Distributors, Electrical Installers, Engineers (Public Buildings & Hospitals), Engineers (Industrial Projects)"
+        "audienceType": "Distributeurs électriques, Installateurs électriques, Ingénieurs (Bâtiments publics et hôpitaux), Ingénieurs (Projets industriels)"
       },
       "subjectOf": {
         "@type": "DigitalDocument",
-        "name": "Fiche Technique - TOXFREE\u00ae LSZH FR-N1X1G1 Flex",
+        "name": "Fiche Technique - TOXFREE® LSZH FR-N1X1G1 Flex",
         "url": "https://www.topcable.com/downloads/pdf/fr/topcable-datasheet-toxfree-lszh-fr-n1x1g1-flex-fr.pdf",
         "encodingFormat": "application/pdf",
-        "description": "Sp\u00e9cifications techniques compl\u00e8tes, donn\u00e9es d\u2019ing\u00e9nierie et certifications du c\u00e2ble."
+        "description": "Spécifications techniques complètes, données d'ingénierie et certifications du câble."
       },
       "additionalProperty": [
         {
           "@type": "PropertyValue",
-          "name": "\u00c2me",
-          "value": "Cuivre \u00e9lectrolytique, classe 5 (souple) selon EN 60228 et IEC 60228",
+          "name": "Conducteur",
+          "value": "Cuivre électrolytique, classe 5 (souple) selon EN 60228 et IEC 60228",
           "url": "https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=151-12-05"
         },
         {
           "@type": "PropertyValue",
           "name": "Isolation",
-          "value": "Poly\u00e9thyl\u00e8ne r\u00e9ticul\u00e9 type XLPE selon IEC 60502-1 et type DIX-3 selon HD 603"
+          "value": "Polyéthylène réticulé type XLPE selon IEC 60502-1 et type DIX-3 selon HD 603"
         },
         {
           "@type": "PropertyValue",
-          "name": "Gaine ext\u00e9rieure",
-          "value": "Poly\u00e9l\u00e9fine ignifug\u00e9e, \u00e0 faible d\u00e9gagement de fum\u00e9e et sans halog\u00e8ne, type ST8 selon IEC 60502-1. Couleur verte."
+          "name": "Gaine extérieure",
+          "value": "Polyéléfine ignifugée, à faible dégagement de fumée et sans halogène, type ST8 selon IEC 60502-1. Couleur verte."
         },
         {
           "@type": "PropertyValue",
@@ -60,142 +59,142 @@
         },
         {
           "@type": "PropertyValue",
-          "name": "Temp\u00e9rature maximale du conducteur",
+          "name": "Température maximale du conducteur",
           "value": "90",
-          "unitText": "\u00b0C"
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
-          "name": "Temp\u00e9rature maximale de court-circuit",
+          "name": "Température maximale de court-circuit",
           "value": "250 (max. 5 s)",
-          "unitText": "\u00b0C"
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
-          "name": "Temp\u00e9rature minimale de service",
-          "value": "-40 (installations fixes et prot\u00e9g\u00e9es)",
-          "unitText": "\u00b0C"
+          "name": "Température minimale de service",
+          "value": "-40 (installations fixes et protégées)",
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
-          "name": "Temp\u00e9rature minimale d\u2019installation et de manipulation",
+          "name": "Température minimale d’installation et de manipulation",
           "value": "-0",
-          "unitText": "\u00b0C"
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
-          "name": "Non propagation de la flamme",
-          "value": "Non propagation de la flamme selon IEC 60332-1 / EN 60332-1"
+          "name": "Non-propagation de la flamme",
+          "value": "Non-propagation de la flamme selon IEC 60332-1 et EN 60332-1"
         },
         {
           "@type": "PropertyValue",
-          "name": "Non propagation de l\u2019incendie",
-          "value": "Non propagation de l\u2019incendie selon NF EN IEC 60332-3 et EN 50399"
+          "name": "Non-propagation de l’incendie",
+          "value": "Non-propagation de l’incendie selon NF EN IEC 60332-3 et EN 50399"
         },
         {
           "@type": "PropertyValue",
-          "name": "Classification RPC",
+          "name": "Classification CPR",
           "value": "B2ca-s1a,d1,a1 ou Cca-s1a,d1,a1 (selon section transversale) selon EN 50575"
         },
         {
           "@type": "PropertyValue",
-          "name": "Sans halog\u00e8ne",
-          "value": "Sans halog\u00e8ne et \u00e0 faible \u00e9mission de fum\u00e9e selon EN 60754-1 / IEC 60754-1"
+          "name": "Sans halogène",
+          "value": "Sans halogène selon EN 60754-1 et IEC 60754-1"
         },
         {
           "@type": "PropertyValue",
-          "name": "Faible \u00e9mission de fum\u00e9e",
-          "value": "Faible \u00e9mission de fum\u00e9e selon EN 61034 / IEC 61034"
+          "name": "Faible émission de fumée",
+          "value": "Faible émission de fumée selon EN 61034 et IEC 61034"
         },
         {
           "@type": "PropertyValue",
-          "name": "Transmittance de la lumi\u00e8re",
+          "name": "Transmittance lumineuse",
           "value": "> 80%"
         },
         {
           "@type": "PropertyValue",
-          "name": "Faible \u00e9mission de gaz corrosifs",
-          "value": "Faible \u00e9mission de gaz corrosifs selon EN 60754-2 / IEC 60754-2"
+          "name": "Faible émission de gaz corrosifs",
+          "value": "Faible émission de gaz corrosifs selon EN 60754-2 et IEC 60754-2"
         },
         {
           "@type": "PropertyValue",
           "name": "Rayon de courbure minimum",
-          "value": "5x diam\u00e8tre du c\u00e2ble"
+          "value": "5x diamètre du câble"
         },
         {
           "@type": "PropertyValue",
-          "name": "R\u00e9sistance aux chocs",
-          "value": "AG2 Gravit\u00e9 moyenne"
+          "name": "Résistance aux chocs",
+          "value": "AG2 Sévérité moyenne"
         },
         {
           "@type": "PropertyValue",
-          "name": "R\u00e9sistance chimique & aux huiles",
+          "name": "Résistance chimique et aux huiles",
           "value": "Acceptable"
         },
         {
           "@type": "PropertyValue",
-          "name": "R\u00e9sistance aux UV",
-          "value": "R\u00e9sistance aux UV selon EN 50618"
+          "name": "Résistance aux UV",
+          "value": "Résistance aux UV selon EN 50618"
         },
         {
           "@type": "PropertyValue",
-          "name": "Pr\u00e9sence d\u2019eau",
+          "name": "Résistance à l’eau",
           "value": "AD8 Submersion"
         },
         {
           "@type": "PropertyValue",
-          "name": "Conditions d\u2019installation",
-          "value": "\u00c0 l\u2019air libre, Enterr\u00e9, En canalisation"
+          "name": "Conditions d’installation",
+          "value": "À l’air libre, Enterré, En canalisation"
         },
         {
           "@type": "PropertyValue",
-          "name": "Normes (Bas\u00e9 sur / Selon)",
+          "name": "Normes (Selon)",
           "value": "NF C 32-323 / NF C15-100, IEC 60502-1"
         },
         {
           "@type": "PropertyValue",
-          "name": "Certifications",
+          "name": "Normes et approbations",
           "value": "AENOR, KEMA-KEUR, RoHS, CE"
         },
         {
           "@type": "PropertyValue",
           "name": "Applications typiques",
-          "value": "Usage industriel, \u00c9tablissements recevant du public (ERP), Immeubles de grande hauteur (IGH), Gares souterraines, Data Centers"
+          "value": "Usage industriel, Établissements recevant du public (ERP), Immeubles de grande hauteur (IGH), Gares souterraines, Data Centers"
         },
         {
           "@type": "PropertyValue",
-          "name": "European Stock",
-          "value": "Largest European Stock Holding"
+          "name": "Stock européen",
+          "value": "Le plus grand stock européen de câbles"
         },
         {
           "@type": "PropertyValue",
-          "name": "Manufacturing Quality",
-          "value": "As cable manufacturers, we ensure cost-effective premium quality and lasting performance."
+          "name": "Qualité de fabrication",
+          "value": "En tant que fabricants de câbles, nous garantissons une qualité premium rentable et des performances durables."
         },
         {
           "@type": "PropertyValue",
-          "name": "Quality Testing",
-          "value": "Our in-house labs guarantee rigorous cable quality, reliability, and standards compliance."
+          "name": "Contrôle de qualité",
+          "value": "Nos laboratoires internes garantissent une qualité rigoureuse des câbles, fiabilité et conformité aux normes."
         },
         {
           "@type": "PropertyValue",
-          "name": "Global Logistics",
-          "value": "Global cable delivery solutions\u2014expert logistics for seamless supply."
+          "name": "Logistique mondiale",
+          "value": "Solutions logistiques mondiales pour câbles — expertise logistique pour un approvisionnement sans faille."
         },
         {
           "@type": "PropertyValue",
-          "name": "Fast Delivery",
-          "value": "Full cable stock, ready for fast delivery- shortest lead times."
+          "name": "Livraison rapide",
+          "value": "Stock complet de câbles, prêt pour une livraison rapide — délais les plus courts."
         },
         {
           "@type": "PropertyValue",
-          "name": "Sustainability",
-          "value": "EPD-certified cables: Sustainable manufacturing for your Scope 3 success."
+          "name": "Durabilité",
+          "value": "Câbles certifiés EPD : fabrication durable pour votre succès Scope 3."
         },
         {
           "@type": "PropertyValue",
-          "name": "Customer Service",
-          "value": "Expert, friendly and professional sales team offering a fast & efficient customer service. Global customers are welcome!"
+          "name": "Service client",
+          "value": "Équipe commerciale experte, conviviale et professionnelle offrant un service client rapide et efficace. Clients internationaux bienvenus !"
         }
       ],
       "offers": {
@@ -227,13 +226,13 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "C\u00e2bles de s\u00e9curit\u00e9 LSOH",
+          "name": "Câbles de sécurité LSOH",
           "item": "https://www.topcable.com/fr/lsoh-safety-cables/"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "TOXFREE\u00ae LSZH FR-N1X1G1 Flex"
+          "name": "TOXFREE® LSZH FR-N1X1G1 Flex"
         }
       ]
     },
@@ -247,7 +246,7 @@
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Carrer de Leonardo da Vinci, 1",
-        "addressLocality": "Rub\u00ed",
+        "addressLocality": "Rubí",
         "addressRegion": "Barcelona",
         "postalCode": "08191",
         "addressCountry": "ES"

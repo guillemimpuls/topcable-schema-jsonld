@@ -3,192 +3,192 @@
   "@graph": [
     {
       "@type": "Product",
-      "name": "TOPSOLAR\u00ae PV H1Z2Z2-K",
+      "name": "TOPSOLAR® PV H1Z2Z2-K",
       "mpn": "H1Z2Z2-K",
       "sku": "H1Z2Z2-K",
-      "description": "Cable solar certificado T\u00dcV. NORMAS DE REFERENCIA: EN 50618 / IEC 62930 / UTE C 32-502. El cable TOPSOLAR\u00ae PV H1Z2Z2-K est\u00e1 certificado por T\u00dcV seg\u00fan la norma EN 50618 y por AENOR seg\u00fan la norma IEC 62930. Es adecuado para instalaciones solares fijas y m\u00f3viles (huertos solares, instalaciones solares en tejados, autoconsumo y plantas flotantes).",
+      "description": "Cable solar certificado TÜV. NORMAS DE REFERENCIA: EN 50618 / IEC 62930 / UTE C 32-502. El cable TOPSOLAR® PV H1Z2Z2-K está certificado por TÜV según la norma EN 50618 y por AENOR según la norma IEC 62930. Es adecuado para instalaciones solares fijas y móviles (huertos solares, instalaciones solares en tejados, autoconsumo y plantas flotantes).",
       "image": [
-        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-topsolar-pv-h1z2z2-k-tuv-solar-pv-cable-01.png",
-        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_TOPSOLAR_PV.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-h1z2z2-k-t-v-certified-pv-cable-01.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_TOPSOLAR_PV_H1Z2Z2_K.webp",
         "https://www.topcable.com/wp-content/uploads/2025/07/bobina_negra.png"
       ],
       "url": "https://www.topcable.com/es/cable/topsolar-pv-h1z2z2-k/",
-      "category": "Hardware > Building Materials > Wiring & Cables > Electrical Cables",
+      "category": "Ferretería > Materiales de construcción > Cableado y cables > Cables eléctricos",
       "brand": {
         "@type": "Brand",
-        "name": "TOPSOLAR\u00ae",
+        "name": "TOPSOLAR®",
         "url": "https://www.topcable.com/company/our-brands/"
       },
       "manufacturer": {
         "@type": "Organization",
         "@id": "https://www.topcable.com/#organization"
       },
-      "material": "Tinned copper, class 5 (flexible)",
+      "material": "Cobre estañado, class 5 (flexible)",
       "audience": {
         "@type": "BusinessAudience",
-        "audienceType": "Solar EPC Developers, Electrical Distributors, Renewable Energy Engineers"
+        "audienceType": "Solar EPC Developers, Distribuidores eléctricos, Ingenieros de energías renovables"
       },
       "subjectOf": {
         "@type": "DigitalDocument",
-        "name": "Ficha T\u00e9cnica - TOPSOLAR\u00ae PV H1Z2Z2-K",
+        "name": "Ficha Técnica - TOPSOLAR® PV H1Z2Z2-K",
         "url": "https://www.topcable.com/downloads/pdf/es/topcable-datasheet-topsolar-pv-h1z2z2-k-es.pdf",
         "encodingFormat": "application/pdf",
-        "description": "Especificaciones t\u00e9cnicas completas, datos de ingenier\u00eda y certificaciones del cable."
+        "description": "Especificaciones técnicas completas, datos de ingeniería y certificaciones del cable."
       },
       "additionalProperty": [
         {
           "@type": "PropertyValue",
           "name": "Conductor",
-          "value": "Cobre electrol\u00edtico recocido y esta\u00f1ado, clase 5 (flexible) seg\u00fan UNE-EN 60228 e IEC 60228",
+          "value": "Cobre electrolítico recocido y estañado, clase 5 (flexible) según UNE-EN 60228 e IEC 60228",
           "url": "https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=151-12-05"
         },
         {
           "@type": "PropertyValue",
-          "name": "Insulation",
-          "value": "Goma reticulada de baja emisi\u00f3n de humos y libre de hal\u00f3genos seg\u00fan tabla B1, Anexo B de norma EN 50618 e IEC 62930"
+          "name": "Aislamiento",
+          "value": "Goma reticulada de baja emisión de humos y libre de halógenos según tabla B1, Anexo B de norma EN 50618 e IEC 62930"
         },
         {
           "@type": "PropertyValue",
-          "name": "Outer Sheath",
-          "value": "Goma flexible de baja emisi\u00f3n de humos y libre de hal\u00f3geno seg\u00fan tabla B1, Anexo B de norma EN 50618 e IEC 62930"
+          "name": "Cubierta exterior",
+          "value": "Goma flexible de baja emisión de humos y libre de halógeno según tabla B1, Anexo B de norma EN 50618 e IEC 62930"
         },
         {
           "@type": "PropertyValue",
-          "name": "Rated Voltage",
+          "name": "Tensión nominal",
           "value": "1,5 (1,8) kV DC / 1,0/1,0 kV AC"
         },
         {
           "@type": "PropertyValue",
-          "name": "Maximum Conductor Temperature",
+          "name": "Temperatura máxima del conductor",
           "value": "90 (120 durante 20.000 h)",
-          "unitText": "\u00b0C"
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
-          "name": "Maximum Short-Circuit Temperature",
-          "value": "250 (m\u00e1ximo 5 s)",
-          "unitText": "\u00b0C"
+          "name": "Temperatura máxima de cortocircuito",
+          "value": "250 (máximo 5 s)",
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
-          "name": "Minimum Service Temperature",
-          "value": "-40 (est\u00e1tico con protecci\u00f3n)",
-          "unitText": "\u00b0C"
+          "name": "Temperatura mínima de servicio",
+          "value": "-40 (estático con protección)",
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
-          "name": "Flame Non-Propagation",
-          "value": "No propagador de la llama seg\u00fan UNE-EN 60332-1-2 / IEC 60332-1-2"
+          "name": "No propagación de la llama",
+          "value": "No propagador de la llama según UNE-EN 60332-1-2 / IEC 60332-1-2"
         },
         {
           "@type": "PropertyValue",
-          "name": "Fire Non-Propagation",
-          "value": "No propagador del incendio seg\u00fan EN 50399"
+          "name": "No propagación del incendio",
+          "value": "No propagador del incendio según EN 50399"
         },
         {
           "@type": "PropertyValue",
-          "name": "CPR Classification",
-          "value": "Cca-s1b, d2, a1 seg\u00fan EN 50575"
+          "name": "Clasificación CPR",
+          "value": "Cca-s1b, d2, a1 según EN 50575"
         },
         {
           "@type": "PropertyValue",
-          "name": "Halogen Free",
-          "value": "Libre de hal\u00f3genos seg\u00fan UNE-EN 60754-1 / IEC 60754-1"
+          "name": "Libre de halógenos",
+          "value": "Libre de halógenos según UNE-EN 60754-1 / IEC 60754-1"
         },
         {
           "@type": "PropertyValue",
-          "name": "Low Corrosive Gases Emission",
-          "value": "Baja emisi\u00f3n de gases corrosivos seg\u00fan UNE-EN 60754-2 / IEC 60754-2"
+          "name": "Baja emisión de gases corrosivos",
+          "value": "Baja emisión de gases corrosivos según UNE-EN 60754-2 / IEC 60754-2"
         },
         {
           "@type": "PropertyValue",
-          "name": "Low Smoke Emission",
-          "value": "Baja emisi\u00f3n de humos seg\u00fan UNE-EN 61034 / IEC 61034"
+          "name": "Baja emisión de humo",
+          "value": "Baja emisión de humos según UNE-EN 61034 / IEC 61034"
         },
         {
           "@type": "PropertyValue",
-          "name": "Light Transmittance",
+          "name": "Transmitancia luminosa",
           "value": "> 60%"
         },
         {
           "@type": "PropertyValue",
-          "name": "Minimum Bending Radius",
-          "value": "4x di\u00e1metro de cable (di\u00e1metro \u2264 8 mm), 5x di\u00e1metro del cable (8 < di\u00e1metro \u2264 12 mm), 6x di\u00e1metro de cable (di\u00e1metro > 12 mm)"
+          "name": "Radio mínimo de curvatura",
+          "value": "4x diámetro de cable (diámetro ≤ 8 mm), 5x diámetro del cable (8 < diámetro ≤ 12 mm), 6x diámetro de cable (diámetro > 12 mm)"
         },
         {
           "@type": "PropertyValue",
-          "name": "Impact Resistance",
+          "name": "Resistencia al impacto",
           "value": "AG2 Medio"
         },
         {
           "@type": "PropertyValue",
-          "name": "Chemical & Oil Resistance",
+          "name": "Resistencia química y a aceites",
           "value": "Excelente"
         },
         {
           "@type": "PropertyValue",
-          "name": "UV Resistance",
-          "value": "Resistencia a los rayos ultravioleta seg\u00fan EN 50618 e IEC 62930"
+          "name": "Resistencia a los UV",
+          "value": "Resistencia a los rayos ultravioleta según EN 50618 e IEC 62930"
         },
         {
           "@type": "PropertyValue",
-          "name": "Water Resistance",
-          "value": "AD7+ Inmersi\u00f3n, AD8 Sumersi\u00f3n"
+          "name": "Resistencia al agua",
+          "value": "AD7+ Inmersión, AD8 Sumersión"
         },
         {
           "@type": "PropertyValue",
-          "name": "Installation Conditions",
+          "name": "Condiciones de instalación",
           "value": "Al aire, Enterrado, Entubado"
         },
         {
           "@type": "PropertyValue",
-          "name": "Standards (According To)",
+          "name": "Normas (Según)",
           "value": "EN 50618, IEC 62930, UTE C 32-502"
         },
         {
           "@type": "PropertyValue",
-          "name": "Standards and Approvals",
-          "value": "T\u00dcV Rheinland, RETIE, AENOR, RoHS, CE"
+          "name": "Normas y aprobaciones",
+          "value": "TÜV Rheinland, RETIE, AENOR, RoHS, CE"
         },
         {
           "@type": "PropertyValue",
-          "name": "Typical Applications",
+          "name": "Aplicaciones típicas",
           "value": "Instalaciones solares fotovoltaicas, Huertos solares, Solares en tejados, Plantas solares flotantes"
         },
         {
           "@type": "PropertyValue",
-          "name": "European Stock",
-          "value": "Largest European Stock Holding"
+          "name": "Stock europeo",
+          "value": "El mayor stock europeo de cables"
         },
         {
           "@type": "PropertyValue",
-          "name": "Manufacturing Quality",
-          "value": "As cable manufacturers, we ensure cost-effective premium quality and lasting performance."
+          "name": "Calidad de fabricación",
+          "value": "Como fabricantes de cables, garantizamos una calidad premium rentable y un rendimiento duradero."
         },
         {
           "@type": "PropertyValue",
-          "name": "Quality Testing",
-          "value": "Our in-house labs guarantee rigorous cable quality, reliability, and standards compliance."
+          "name": "Control de calidad",
+          "value": "Nuestros laboratorios internos garantizan una rigurosa calidad del cable, fiabilidad y cumplimiento normativo."
         },
         {
           "@type": "PropertyValue",
-          "name": "Global Logistics",
-          "value": "Global cable delivery solutions\u2014expert logistics for seamless supply."
+          "name": "Logística mundial",
+          "value": "Soluciones logísticas mundiales para cables — experiencia logística para un suministro sin interrupciones."
         },
         {
           "@type": "PropertyValue",
-          "name": "Fast Delivery",
-          "value": "Full cable stock, ready for fast delivery- shortest lead times."
+          "name": "Entrega rápida",
+          "value": "Stock completo de cables, listo para entrega rápida — plazos de entrega más cortos."
         },
         {
           "@type": "PropertyValue",
-          "name": "Sustainability",
-          "value": "EPD-certified cables: Sustainable manufacturing for your Scope 3 success."
+          "name": "Sostenibilidad",
+          "value": "Cables con certificación EPD: fabricación sostenible para su éxito en Scope 3."
         },
         {
           "@type": "PropertyValue",
-          "name": "Customer Service",
-          "value": "Expert, friendly and professional sales team offering a fast & efficient customer service. Global customers are welcome!"
+          "name": "Atención al cliente",
+          "value": "Equipo comercial experto, cercano y profesional ofreciendo una atención al cliente rápida y eficiente. ¡Clientes internacionales bienvenidos!"
         }
       ],
       "offers": {
@@ -226,7 +226,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "TOPSOLAR\u00ae PV H1Z2Z2-K"
+          "name": "TOPSOLAR® PV H1Z2Z2-K"
         }
       ]
     },
@@ -240,7 +240,7 @@
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Carrer de Leonardo da Vinci, 1",
-        "addressLocality": "Rub\u00ed",
+        "addressLocality": "Rubí",
         "addressRegion": "Barcelona",
         "postalCode": "08191",
         "addressCountry": "ES"

@@ -3,20 +3,19 @@
   "@graph": [
     {
       "@type": "Product",
-      "name": "TOXFREE\u00ae XTREM LSZH H07ZZ-F (AS)",
+      "name": "TOXFREE® XTREM LSZH H07ZZ-F (AS)",
       "mpn": "H07ZZ-F",
       "sku": "H07ZZ-F",
-      "description": "The extra-flexible LSZH rubber cable for mobile service. ACCORDING TO: EN 50525-3-21. TOXFREE\u00ae XTREM LSZH H07ZZ-F (AS) is a flexible cable for mobile service, suitable for installations where low smoke and halogen free fumes under fire conditions are required. The use nominal voltage up to 1000 V is accepted in fixed protected assemblies. Suitable for installations where the cable must withstand medium mechanical stress, for machines in industrial and agricultural workshops, for motors and transportable machines on construction sites, for windmills and for agricultural applications.",
+      "description": "The extra-flexible LSZH rubber cable for mobile service. ACCORDING TO: EN 50525-3-21. TOXFREE® XTREM LSZH H07ZZ-F (AS) is a flexible cable for mobile service, suitable for installations where low smoke and halogen free fumes under fire conditions are required. The use nominal voltage up to 1000 V is accepted in fixed protected assemblies. Suitable for installations where the cable must withstand medium mechanical stress, for machines in industrial and agricultural workshops, for motors and transportable machines on construction sites, for windmills and for agricultural applications.",
       "image": [
-        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-toxfree-xtrem-lszh-h07zz-f-extra-flexible-lszh-rubber-cable-for-mobile-service-01.png",
-        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_TOXFREE_XTREM.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-h07zz-f-extra-flexible-lszh-rubber-cable-for-mobile-use-01.png",
         "https://www.topcable.com/wp-content/uploads/2025/07/bobina_negra.png"
       ],
       "url": "https://www.topcable.com/cable/toxfree-lszh-xtrem-h07zz-f/",
       "category": "Hardware > Building Materials > Wiring & Cables > Electrical Cables",
       "brand": {
         "@type": "Brand",
-        "name": "TOXFREE\u00ae",
+        "name": "TOXFREE®",
         "url": "https://www.topcable.com/company/our-brands/"
       },
       "manufacturer": {
@@ -30,7 +29,7 @@
       },
       "subjectOf": {
         "@type": "DigitalDocument",
-        "name": "Technical Datasheet - TOXFREE\u00ae XTREM LSZH H07ZZ-F (AS)",
+        "name": "Technical Datasheet - TOXFREE® XTREM LSZH H07ZZ-F (AS)",
         "url": "https://www.topcable.com/downloads/pdf/en/topcable-datasheet-toxfree-lszh-xtrem-h07zz-f-en.pdf",
         "encodingFormat": "application/pdf",
         "description": "Complete technical specifications, engineering data and certifications for the cable."
@@ -62,19 +61,19 @@
           "@type": "PropertyValue",
           "name": "Maximum Conductor Temperature",
           "value": "90",
-          "unitText": "\u00b0C"
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
           "name": "Maximum Short-Circuit Temperature",
           "value": "250 (max. 5 s)",
-          "unitText": "\u00b0C"
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
           "name": "Minimum Service Temperature",
           "value": "-40 (mobile service)",
-          "unitText": "\u00b0C"
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
@@ -114,7 +113,7 @@
         {
           "@type": "PropertyValue",
           "name": "Minimum Bending Radius",
-          "value": "3x cable diameter < 12 mm; 4x cable diameter \u2265 12 mm"
+          "value": "3x cable diameter < 12 mm; 4x cable diameter ≥ 12 mm"
         },
         {
           "@type": "PropertyValue",
@@ -169,7 +168,7 @@
         {
           "@type": "PropertyValue",
           "name": "Global Logistics",
-          "value": "Global cable delivery solutions\u2014expert logistics for seamless supply."
+          "value": "Global cable delivery solutions—expert logistics for seamless supply."
         },
         {
           "@type": "PropertyValue",
@@ -222,7 +221,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "TOXFREE\u00ae XTREM LSZH H07ZZ-F (AS)"
+          "name": "TOXFREE® XTREM LSZH H07ZZ-F (AS)"
         }
       ]
     },
@@ -236,7 +235,7 @@
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Carrer de Leonardo da Vinci, 1",
-        "addressLocality": "Rub\u00ed",
+        "addressLocality": "Rubí",
         "addressRegion": "Barcelona",
         "postalCode": "08191",
         "addressCountry": "ES"

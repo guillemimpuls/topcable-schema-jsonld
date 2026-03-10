@@ -3,153 +3,153 @@
   "@graph": [
     {
       "@type": "Product",
-      "name": "TOPFLEX\u00ae MS TRI-RATED H07V2-K",
+      "name": "TOPFLEX® MS TRI-RATED H07V2-K",
       "mpn": "H07V2-K",
       "sku": "H07V2-K",
-      "description": "Cable para cableado interno de armarios el\u00e9ctricos. NORMA DE REFERENCIA: EN 50525-2-31 / BS 6231 / UL 758 / CSA C22.2. El cable TOPFLEX\u00ae MS TRI-RATED H07V2-K ha sido especialmente dise\u00f1ado para cableado interno de armarios el\u00e9ctricos, cajas de interruptores y peque\u00f1os aparatos el\u00e9ctricos. Gracias a las caracter\u00edsticas de su construcci\u00f3n, puede ser usado en tubos o en conductos flexibles para motores, transformadores y, en general, para cualquier otra maquinaria.",
+      "description": "Cable para cableado interno de armarios eléctricos. NORMA DE REFERENCIA: EN 50525-2-31 / BS 6231 / UL 758 / CSA C22.2. El cable TOPFLEX® MS TRI-RATED H07V2-K ha sido especialmente diseñado para cableado interno de armarios eléctricos, cajas de interruptores y pequeños aparatos eléctricos. Gracias a las características de su construcción, puede ser usado en tubos o en conductos flexibles para motores, transformadores y, en general, para cualquier otra maquinaria.",
       "image": [
         "https://www.topcable.com/wp-content/uploads/2025/07/topcable-tri-rated-h07v2-k-cable-for-internal-wiring-of-electrical-cabinets-ul-csa-bs-une-01.png",
         "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_TOPFLEX_TRI_RATED.webp",
         "https://www.topcable.com/wp-content/uploads/2025/07/bobina_negra.png"
       ],
       "url": "https://www.topcable.com/es/cable/topflex-ms-tri-rated-h07v2-k/",
-      "category": "Hardware > Building Materials > Wiring & Cables > Electrical Cables",
+      "category": "Ferretería > Materiales de construcción > Cableado y cables > Cables eléctricos",
       "brand": {
         "@type": "Brand",
-        "name": "TOPFLEX\u00ae",
+        "name": "TOPFLEX®",
         "url": "https://www.topcable.com/company/our-brands/"
       },
       "manufacturer": {
         "@type": "Organization",
         "@id": "https://www.topcable.com/#organization"
       },
-      "material": "Copper, class 5 (flexible)",
+      "material": "Cobre, clase 5 (flexible)",
       "audience": {
         "@type": "BusinessAudience",
-        "audienceType": "Electrical Distributors, Electrical Installers, Engineers (Industrial Projects)"
+        "audienceType": "Distribuidores eléctricos, Instaladores eléctricos, Ingenieros (Proyectos industriales)"
       },
       "subjectOf": {
         "@type": "DigitalDocument",
-        "name": "Ficha T\u00e9cnica - TOPFLEX\u00ae MS TRI-RATED H07V2-K",
+        "name": "Ficha Técnica - TOPFLEX® MS TRI-RATED H07V2-K",
         "url": "https://www.topcable.com/downloads/pdf/es/topcable-datasheet-topflex-ms-tri-rated-h07v2-k-es.pdf",
         "encodingFormat": "application/pdf",
-        "description": "Especificaciones t\u00e9cnicas completas, datos de ingenier\u00eda y certificaciones del cable."
+        "description": "Especificaciones técnicas completas, datos de ingeniería y certificaciones del cable."
       },
       "additionalProperty": [
         {
           "@type": "PropertyValue",
           "name": "Conductor",
-          "value": "Cobre electrol\u00edtico recocido, clase 5 (flexible) seg\u00fan UNE-EN 60228, IEC 60228 y BS 6360",
+          "value": "Cobre electrolítico recocido, clase 5 (flexible) según UNE-EN 60228, IEC 60228 y BS 6360",
           "url": "https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=151-12-05"
         },
         {
           "@type": "PropertyValue",
-          "name": "Insulation",
-          "value": "PVC flexible extra deslizante de alta temperatura de servicio tipo TI3 seg\u00fan EN 50363-3 y clase 43 seg\u00fan UL 1581"
+          "name": "Aislamiento",
+          "value": "PVC flexible extra deslizante de alta temperatura de servicio tipo TI3 según EN 50363-3 y clase 43 según UL 1581"
         },
         {
           "@type": "PropertyValue",
-          "name": "Rated Voltage",
+          "name": "Tensión nominal",
           "value": "450/750 (H07V2-K), 300/500 (H05V2-K), 600/1000 (BS CK), 600 (UL AWM / CSA TEW)",
           "unitText": "V"
         },
         {
           "@type": "PropertyValue",
-          "name": "Maximum Conductor Temperature",
+          "name": "Temperatura máxima del conductor",
           "value": "90 (EN/BS), 105 (UL/CSA)",
-          "unitText": "\u00b0C"
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
-          "name": "Maximum Short-Circuit Temperature",
+          "name": "Temperatura máxima de cortocircuito",
           "value": "160 (max. 5 s)",
-          "unitText": "\u00b0C"
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
-          "name": "Minimum Service Temperature",
-          "value": "-40 (est\u00e1tico con protecci\u00f3n)",
-          "unitText": "\u00b0C"
+          "name": "Temperatura mínima de servicio",
+          "value": "-40 (estático con protección)",
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
-          "name": "Flame Non-Propagation",
-          "value": "No propagaci\u00f3n de la llama seg\u00fan UNE-EN 60332-1 / IEC 60332-1. VW1, FT1 y FT2 seg\u00fan UL 2556"
+          "name": "No propagación de la llama",
+          "value": "No propagación de la llama según UNE-EN 60332-1 / IEC 60332-1. VW1, FT1 y FT2 según UL 2556"
         },
         {
           "@type": "PropertyValue",
-          "name": "CPR Classification",
-          "value": "Eca seg\u00fan EN 50575"
+          "name": "Clasificación CPR",
+          "value": "Eca según EN 50575"
         },
         {
           "@type": "PropertyValue",
-          "name": "Minimum Bending Radius",
-          "value": "5x di\u00e1metro exterior"
+          "name": "Radio mínimo de curvatura",
+          "value": "5x diámetro exterior"
         },
         {
           "@type": "PropertyValue",
-          "name": "Chemical & Oil Resistance",
+          "name": "Resistencia química y a aceites",
           "value": "Aceptable"
         },
         {
           "@type": "PropertyValue",
-          "name": "Water Resistance",
-          "value": "AD3 aspersi\u00f3n"
+          "name": "Resistencia al agua",
+          "value": "AD3 aspersión"
         },
         {
           "@type": "PropertyValue",
-          "name": "Installation Conditions",
+          "name": "Condiciones de instalación",
           "value": "Entubado"
         },
         {
           "@type": "PropertyValue",
-          "name": "Standards (According To)",
+          "name": "Normas (Según)",
           "value": "EN 50525-2-31, BS 6231, UL 758, CSA C22.2"
         },
         {
           "@type": "PropertyValue",
-          "name": "Standards and Approvals",
+          "name": "Normas y aprobaciones",
           "value": "HAR, AENOR, UL LISTED, RoHS, CE"
         },
         {
           "@type": "PropertyValue",
-          "name": "Typical Applications",
-          "value": "Uso industrial, Cableado de cuadros el\u00e9ctricos, Maquinaria"
+          "name": "Aplicaciones típicas",
+          "value": "Uso industrial, Cableado de cuadros eléctricos, Maquinaria"
         },
         {
           "@type": "PropertyValue",
-          "name": "European Stock",
-          "value": "Largest European Stock Holding"
+          "name": "Stock europeo",
+          "value": "El mayor stock europeo de cables"
         },
         {
           "@type": "PropertyValue",
-          "name": "Manufacturing Quality",
-          "value": "As cable manufacturers, we ensure cost-effective premium quality and lasting performance."
+          "name": "Calidad de fabricación",
+          "value": "Como fabricantes de cables, garantizamos una calidad premium rentable y un rendimiento duradero."
         },
         {
           "@type": "PropertyValue",
-          "name": "Quality Testing",
-          "value": "Our in-house labs guarantee rigorous cable quality, reliability, and standards compliance."
+          "name": "Control de calidad",
+          "value": "Nuestros laboratorios internos garantizan una rigurosa calidad del cable, fiabilidad y cumplimiento normativo."
         },
         {
           "@type": "PropertyValue",
-          "name": "Global Logistics",
-          "value": "Global cable delivery solutions\u2014expert logistics for seamless supply."
+          "name": "Logística mundial",
+          "value": "Soluciones logísticas mundiales para cables — experiencia logística para un suministro sin interrupciones."
         },
         {
           "@type": "PropertyValue",
-          "name": "Fast Delivery",
-          "value": "Full cable stock, ready for fast delivery- shortest lead times."
+          "name": "Entrega rápida",
+          "value": "Stock completo de cables, listo para entrega rápida — plazos de entrega más cortos."
         },
         {
           "@type": "PropertyValue",
-          "name": "Sustainability",
-          "value": "EPD-certified cables: Sustainable manufacturing for your Scope 3 success."
+          "name": "Sostenibilidad",
+          "value": "Cables con certificación EPD: fabricación sostenible para su éxito en Scope 3."
         },
         {
           "@type": "PropertyValue",
-          "name": "Customer Service",
-          "value": "Expert, friendly and professional sales team offering a fast & efficient customer service. Global customers are welcome!"
+          "name": "Atención al cliente",
+          "value": "Equipo comercial experto, cercano y profesional ofreciendo una atención al cliente rápida y eficiente. ¡Clientes internacionales bienvenidos!"
         }
       ],
       "offers": {
@@ -181,13 +181,13 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Cables para cuadros el\u00e9ctricos",
+          "name": "Cables para cuadros eléctricos",
           "item": "https://www.topcable.com/es/cables-para-cuadros-electricos/"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "TOPFLEX\u00ae MS TRI-RATED H07V2-K"
+          "name": "TOPFLEX® MS TRI-RATED H07V2-K"
         }
       ]
     },
@@ -201,7 +201,7 @@
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Carrer de Leonardo da Vinci, 1",
-        "addressLocality": "Rub\u00ed",
+        "addressLocality": "Rubí",
         "addressRegion": "Barcelona",
         "postalCode": "08191",
         "addressCountry": "ES"

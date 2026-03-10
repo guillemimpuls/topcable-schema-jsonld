@@ -8,8 +8,7 @@
       "sku": "FR-N1X1G1-Flex",
       "description": "Halogen free (LSZH) flexible power cable for public places and high-rise buildings (ERP & IGH). BASED ON: NF C 32-323. ACCORDING TO: IEC 60502-1. Toxfree® LSZH FR-N1X1G1 Flex is a LSZH safety cable. In the event of fire, it does not emit toxic gases, nor does it give off corrosive gases, avoiding any possible damage to people or electronic equipment. For these reasons it is highly recommended for use in public places such as: hospitals, schools, museums, airports, bus terminals, shopping centres, offices, laboratories, etc.",
       "image": [
-        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-toxfree-lszh-fr-n1x1g1-flex-halogen-free-power-cable-for-public-places-01.png",
-        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_TOXFREE_ZH_N1_X1G1_Flex.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-fr-n1x1g1-flex-flexible-lszh-power-cable-for-public-places-erp-and-igh-01.png",
         "https://www.topcable.com/wp-content/uploads/2025/07/bobina_verde.png"
       ],
       "url": "https://www.topcable.com/cable/toxfree-lszh-fr-n1x1g1-flex/",
@@ -62,25 +61,25 @@
           "@type": "PropertyValue",
           "name": "Maximum Conductor Temperature",
           "value": "90",
-          "unitText": "\u00b0C"
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
           "name": "Maximum Short-Circuit Temperature",
           "value": "250 (max. 5 s)",
-          "unitText": "\u00b0C"
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
           "name": "Minimum Service Temperature",
           "value": "-40 (fixed and protected installations)",
-          "unitText": "\u00b0C"
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
           "name": "Minimum Installation and Handling Temperature",
           "value": "-0",
-          "unitText": "\u00b0C"
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
@@ -180,7 +179,7 @@
         {
           "@type": "PropertyValue",
           "name": "Global Logistics",
-          "value": "Global cable delivery solutions\u2014expert logistics for seamless supply."
+          "value": "Global cable delivery solutions—expert logistics for seamless supply."
         },
         {
           "@type": "PropertyValue",
@@ -247,7 +246,7 @@
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Carrer de Leonardo da Vinci, 1",
-        "addressLocality": "Rub\u00ed",
+        "addressLocality": "Rubí",
         "addressRegion": "Barcelona",
         "postalCode": "08191",
         "addressCountry": "ES"

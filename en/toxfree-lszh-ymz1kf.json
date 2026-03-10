@@ -6,10 +6,10 @@
       "name": "TOXFREE® LSZH YMz1Kf",
       "mpn": "YMz1Kf",
       "sku": "YMz1Kf",
-      "description": "Flexible LSHF power cable, for public places. ACCORDING TO: IEC 60502-1 / UNE 21123-4. Toxfree® LSZH YMz1Kf is a LSZH safety cable. In the event of fire, it does not emit toxic gases, nor does it give off corrosive gases, avoiding any possible damage to people or electronic equipment. For these reasons it is highly recommended for use in public places such as: hospitals, schools, museums, airports, bus terminals, shopping centers, offices, laboratories, etc.",
+      "description": "Flexible LSZH power cable, for public places. ACCORDING TO: IEC 60502-1 / UNE 21123-4. Toxfree® LSZH YMz1Kf is a LSZH safety cable. In the event of fire, it does not emit toxic gases, nor does it give off corrosive gases, avoiding any possible damage to people or electronic equipment. For these reasons it is highly recommended for use in public places such as: hospitals, schools, museums, airports, bus terminals, shopping centers, offices, laboratories, etc.",
       "image": [
-        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-toxfree-lszh-ymz1kf-flexible-lshf-power-cable-for-public-places-01.png",
-        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_TOXFREE_ZH_YMZ1KF.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-ymz1kf-flexible-lszh-power-cable-for-public-places-01.png",
+        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_TOXFREE_ZH_YMz1Kf.webp",
         "https://www.topcable.com/wp-content/uploads/2025/07/bobina_verde.png"
       ],
       "url": "https://www.topcable.com/cable/toxfree-lszh-ymz1kf/",
@@ -50,7 +50,7 @@
         {
           "@type": "PropertyValue",
           "name": "Outer Sheath",
-          "value": "Low Smoke Halogen Free (LSHF) polyolefin outer sheath. Green colour."
+          "value": "Low Smoke Halogen Free (LSZH) polyolefin outer sheath. Green colour."
         },
         {
           "@type": "PropertyValue",

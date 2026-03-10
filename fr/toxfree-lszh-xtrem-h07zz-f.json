@@ -3,188 +3,187 @@
   "@graph": [
     {
       "@type": "Product",
-      "name": "TOXFREE\u00ae XTREM LSZH H07ZZ-F (AS)",
+      "name": "TOXFREE® XTREM LSZH H07ZZ-F (AS)",
       "mpn": "H07ZZ-F",
       "sku": "H07ZZ-F",
-      "description": "Le c\u00e2ble en caoutchouc LSHF extra-flexible pour le service mobile. SELON: EN 50525-3-21. Le c\u00e2ble TOXFREE\u00ae XTREM LSZH H07ZZ-F (AS) est un c\u00e2ble flexible pour service mobile, adapt\u00e9 aux installations o\u00f9 une faible \u00e9mission de fum\u00e9e et d'halog\u00e8ne dans des conditions d'incendie est requise. La tension nominale d'utilisation jusqu'\u00e0 1000 V est accept\u00e9e dans les montages fixes prot\u00e9g\u00e9s. Convient aux installations o\u00f9 le c\u00e2ble doit r\u00e9sister \u00e0 des contraintes m\u00e9caniques moyennes, pour les machines dans les ateliers industriels et agricoles, pour les moteurs et les machines transportables sur les chantiers de construction, pour les \u00e9oliennes et pour les applications agricoles.",
+      "description": "Le câble en caoutchouc LSZH extra-flexible pour le service mobile. SELON: EN 50525-3-21. Le câble TOXFREE® XTREM LSZH H07ZZ-F (AS) est un câble flexible pour service mobile, adapté aux installations où une faible émission de fumée et d'halogène dans des conditions d'incendie est requise. La tension nominale d'utilisation jusqu'à 1000 V est acceptée dans les montages fixes protégés. Convient aux installations où le câble doit résister à des contraintes mécaniques moyennes, pour les machines dans les ateliers industriels et agricoles, pour les moteurs et les machines transportables sur les chantiers de construction, pour les éoliennes et pour les applications agricoles.",
       "image": [
-        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-toxfree-xtrem-lszh-h07zz-f-extra-flexible-lszh-rubber-cable-for-mobile-service-01.png",
-        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_TOXFREE_XTREM.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-h07zz-f-extra-flexible-lszh-rubber-cable-for-mobile-use-01.png",
         "https://www.topcable.com/wp-content/uploads/2025/07/bobina_negra.png"
       ],
       "url": "https://www.topcable.com/fr/cable/toxfree-lszh-xtrem-h07zz-f/",
-      "category": "Hardware > Building Materials > Wiring & Cables > Electrical Cables",
+      "category": "Quincaillerie > Matériaux de construction > Câblage et câbles > Câbles électriques",
       "brand": {
         "@type": "Brand",
-        "name": "TOXFREE\u00ae",
+        "name": "TOXFREE®",
         "url": "https://www.topcable.com/company/our-brands/"
       },
       "manufacturer": {
         "@type": "Organization",
         "@id": "https://www.topcable.com/#organization"
       },
-      "material": "Copper, class 5 (flexible)",
+      "material": "Cuivre, classe 5 (souple)",
       "audience": {
         "@type": "BusinessAudience",
-        "audienceType": "Electrical Distributors, Electrical Installers, Engineers (Industrial Projects)"
+        "audienceType": "Distributeurs électriques, Installateurs électriques, Ingénieurs (Projets industriels)"
       },
       "subjectOf": {
         "@type": "DigitalDocument",
-        "name": "Fiche Technique - TOXFREE\u00ae XTREM LSZH H07ZZ-F (AS)",
+        "name": "Fiche Technique - TOXFREE® XTREM LSZH H07ZZ-F (AS)",
         "url": "https://www.topcable.com/downloads/pdf/fr/topcable-datasheet-toxfree-lszh-xtrem-h07zz-f-fr.pdf",
         "encodingFormat": "application/pdf",
-        "description": "Sp\u00e9cifications techniques compl\u00e8tes, donn\u00e9es d'ing\u00e9nierie et certifications du c\u00e2ble."
+        "description": "Spécifications techniques complètes, données d'ingénierie et certifications du câble."
       },
       "additionalProperty": [
         {
           "@type": "PropertyValue",
-          "name": "Conductor",
-          "value": "Cuivre \u00e9lectrolytique, classe 5 (souple) selon EN 60228 et IEC 60228",
+          "name": "Conducteur",
+          "value": "Cuivre électrolytique, classe 5 (souple) selon EN 60228 et IEC 60228",
           "url": "https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=151-12-05"
         },
         {
           "@type": "PropertyValue",
-          "name": "Insulation",
-          "value": "Caoutchouc thermodurcissable sans halog\u00e8ne, type EI8 selon EN 50363-5"
+          "name": "Isolation",
+          "value": "Caoutchouc thermodurcissable sans halogène, type EI8 selon EN 50363-5"
         },
         {
           "@type": "PropertyValue",
-          "name": "Outer Sheath",
-          "value": "Caoutchouc flexible thermodurcissable sans halog\u00e8ne, type EM8 selon EN 50363-6. Couleur noire."
+          "name": "Gaine extérieure",
+          "value": "Caoutchouc flexible thermodurcissable sans halogène, type EM8 selon EN 50363-6. Couleur noire."
         },
         {
           "@type": "PropertyValue",
-          "name": "Rated Voltage",
+          "name": "Tension nominale",
           "value": "450/750",
           "unitText": "V"
         },
         {
           "@type": "PropertyValue",
-          "name": "Maximum Conductor Temperature",
+          "name": "Température maximale du conducteur",
           "value": "90",
-          "unitText": "\u00b0C"
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
-          "name": "Maximum Short-Circuit Temperature",
+          "name": "Température maximale de court-circuit",
           "value": "250 (max. 5 s)",
-          "unitText": "\u00b0C"
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
-          "name": "Minimum Service Temperature",
-          "value": "-40 (installations fixes et prot\u00e9g\u00e9es)",
-          "unitText": "\u00b0C"
+          "name": "Température minimale de service",
+          "value": "-40 (installations fixes et protégées)",
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
-          "name": "Flame Non-Propagation",
-          "value": "Non propagation de la flamme selon EN 60332-1 / IEC 60332-1"
+          "name": "Non-propagation de la flamme",
+          "value": "Non-propagation de la flamme selon EN 60332-1 et IEC 60332-1"
         },
         {
           "@type": "PropertyValue",
-          "name": "Fire Non-Propagation",
-          "value": "Non propagation de l'incendie selon EN 60332-3-24 / IEC 60332-3-24 et EN 50399"
+          "name": "Non-propagation de l'incendie",
+          "value": "Non-propagation de l'incendie selon EN 60332-3-24 et IEC 60332-3-24 et EN 50399"
         },
         {
           "@type": "PropertyValue",
-          "name": "CPR Classification",
+          "name": "Classification CPR",
           "value": "B2ca-s1b, d1, a1 ou Cca-s1b, d2, a1 (selon section transversale) selon EN 50575"
         },
         {
           "@type": "PropertyValue",
-          "name": "Halogen Free",
-          "value": "Sans halog\u00e8ne selon EN 60754-1 / IEC 60754-1"
+          "name": "Sans halogène",
+          "value": "Sans halogène selon EN 60754-1 et IEC 60754-1"
         },
         {
           "@type": "PropertyValue",
-          "name": "Low Corrosive Gases Emission",
-          "value": "Faible \u00e9mission de gaz corrosifs selon UNE-EN 60754-2 / IEC 60754-2"
+          "name": "Faible émission de gaz corrosifs",
+          "value": "Faible émission de gaz corrosifs selon UNE-EN 60754-2 et IEC 60754-2"
         },
         {
           "@type": "PropertyValue",
-          "name": "Low Smoke Emission",
-          "value": "Faible \u00e9mission de fum\u00e9e selon EN 61034 / IEC 61034"
+          "name": "Faible émission de fumée",
+          "value": "Faible émission de fumée selon EN 61034 et IEC 61034"
         },
         {
           "@type": "PropertyValue",
-          "name": "Light Transmittance",
+          "name": "Transmittance lumineuse",
           "value": "> 60%"
         },
         {
           "@type": "PropertyValue",
-          "name": "Minimum Bending Radius",
-          "value": "3x diam\u00e8tre du c\u00e2ble < 12 mm ; 4x diam\u00e8tre du c\u00e2ble \u2265 12 mm"
+          "name": "Rayon de courbure minimum",
+          "value": "3x diamètre du câble < 12 mm ; 4x diamètre du câble ≥ 12 mm"
         },
         {
           "@type": "PropertyValue",
-          "name": "Impact Resistance",
-          "value": "AG2 Gravit\u00e9 moyenne"
+          "name": "Résistance aux chocs",
+          "value": "AG2 Sévérité moyenne"
         },
         {
           "@type": "PropertyValue",
-          "name": "Chemical & Oil Resistance",
+          "name": "Résistance chimique et aux huiles",
           "value": "Excellente"
         },
         {
           "@type": "PropertyValue",
-          "name": "Water Resistance",
+          "name": "Résistance à l'eau",
           "value": "AD7 Immersion"
         },
         {
           "@type": "PropertyValue",
-          "name": "Installation Conditions",
-          "value": "\u00c0 l'air libre. En canalisation."
+          "name": "Conditions d'installation",
+          "value": "À l'air libre. En canalisation."
         },
         {
           "@type": "PropertyValue",
-          "name": "Standards (According To)",
+          "name": "Normes (Selon)",
           "value": "EN 50525-3-21"
         },
         {
           "@type": "PropertyValue",
-          "name": "Standards and Approvals",
+          "name": "Normes et approbations",
           "value": "HAR, AENOR, CE"
         },
         {
           "@type": "PropertyValue",
-          "name": "Typical Applications",
-          "value": "Utilisation industrielle, Utilisation mobile, \u00c9oliennes"
+          "name": "Applications typiques",
+          "value": "Utilisation industrielle, Utilisation mobile, Éoliennes"
         },
         {
           "@type": "PropertyValue",
-          "name": "European Stock",
-          "value": "Largest European Stock Holding"
+          "name": "Stock européen",
+          "value": "Le plus grand stock européen de câbles"
         },
         {
           "@type": "PropertyValue",
-          "name": "Manufacturing Quality",
-          "value": "As cable manufacturers, we ensure cost-effective premium quality and lasting performance."
+          "name": "Qualité de fabrication",
+          "value": "En tant que fabricants de câbles, nous garantissons une qualité premium rentable et des performances durables."
         },
         {
           "@type": "PropertyValue",
-          "name": "Quality Testing",
-          "value": "Our in-house labs guarantee rigorous cable quality, reliability, and standards compliance."
+          "name": "Contrôle de qualité",
+          "value": "Nos laboratoires internes garantissent une qualité rigoureuse des câbles, fiabilité et conformité aux normes."
         },
         {
           "@type": "PropertyValue",
-          "name": "Global Logistics",
-          "value": "Global cable delivery solutions\u2014expert logistics for seamless supply."
+          "name": "Logistique mondiale",
+          "value": "Solutions logistiques mondiales pour câbles — expertise logistique pour un approvisionnement sans faille."
         },
         {
           "@type": "PropertyValue",
-          "name": "Fast Delivery",
-          "value": "Full cable stock, ready for fast delivery- shortest lead times."
+          "name": "Livraison rapide",
+          "value": "Stock complet de câbles, prêt pour une livraison rapide — délais les plus courts."
         },
         {
           "@type": "PropertyValue",
-          "name": "Sustainability",
-          "value": "EPD-certified cables: Sustainable manufacturing for your Scope 3 success."
+          "name": "Durabilité",
+          "value": "Câbles certifiés EPD : fabrication durable pour votre succès Scope 3."
         },
         {
           "@type": "PropertyValue",
-          "name": "Customer Service",
-          "value": "Expert, friendly and professional sales team offering a fast & efficient customer service. Global customers are welcome!"
+          "name": "Service client",
+          "value": "Équipe commerciale experte, conviviale et professionnelle offrant un service client rapide et efficace. Clients internationaux bienvenus !"
         }
       ],
       "offers": {
@@ -216,13 +215,13 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "C\u00e2bles LSZH",
+          "name": "Câbles LSZH",
           "item": "https://www.topcable.com/fr/cables-lszh/"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "TOXFREE\u00ae XTREM LSZH H07ZZ-F (AS)"
+          "name": "TOXFREE® XTREM LSZH H07ZZ-F (AS)"
         }
       ]
     },
@@ -236,7 +235,7 @@
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Carrer de Leonardo da Vinci, 1",
-        "addressLocality": "Rub\u00ed",
+        "addressLocality": "Rubí",
         "addressRegion": "Barcelona",
         "postalCode": "08191",
         "addressCountry": "ES"

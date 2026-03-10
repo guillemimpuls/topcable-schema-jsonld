@@ -3,168 +3,168 @@
   "@graph": [
     {
       "@type": "Product",
-      "name": "XTREM\u00ae H07RN-F",
+      "name": "XTREM® H07RN-F",
       "mpn": "H07RN-F",
       "sku": "H07RN-F",
-      "description": "Cable flexible de goma, para uso industrial. NORMAS DE REFERENCIA: EN 50525-2-21 / IEC 60092-353 / IEC 60245-4. Gracias a su extraordinaria flexibilidad y resistencia, el cable Xtrem\u00ae H07RN-F es ideal para uso industrial tanto en instalaci\u00f3n fija como en servicio m\u00f3vil. Los cables H07RN-F de Top Cable est\u00e1n dise\u00f1ados para suministrar energ\u00eda a todo tipo de equipos el\u00e9ctricos, incluidos motores y bombas sumergibles en instalaciones de aguas profundas (AD8).",
+      "description": "Cable flexible de goma, para uso industrial. NORMAS DE REFERENCIA: EN 50525-2-21 / IEC 60092-353 / IEC 60245-4. Gracias a su extraordinaria flexibilidad y resistencia, el cable Xtrem® H07RN-F es ideal para uso industrial tanto en instalación fija como en servicio móvil. Los cables H07RN-F de Top Cable están diseñados para suministrar energía a todo tipo de equipos eléctricos, incluidos motores y bombas sumergibles en instalaciones de aguas profundas (AD8).",
       "image": [
-        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-xtrem-h07rn-f-flexible-rubber-cable-for-industrial-use-01.png",
-        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_XTREM_H07RNF.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-h07rn-f-flexible-rubber-cable-for-industrial-use-01-2.png-2.png",
+        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_XTREM_H07RN_F-1.webp",
         "https://www.topcable.com/wp-content/uploads/2025/07/bobina_negra.png"
       ],
       "url": "https://www.topcable.com/es/cable/xtrem-h07rn-f/",
-      "category": "Hardware > Building Materials > Wiring & Cables > Electrical Cables",
+      "category": "Ferretería > Materiales de construcción > Cableado y cables > Cables eléctricos",
       "brand": {
         "@type": "Brand",
-        "name": "XTREM\u00ae",
+        "name": "XTREM®",
         "url": "https://www.topcable.com/company/our-brands/"
       },
       "manufacturer": {
         "@type": "Organization",
         "@id": "https://www.topcable.com/#organization"
       },
-      "material": "Copper, class 5 (flexible)",
+      "material": "Cobre, clase 5 (flexible)",
       "audience": {
         "@type": "BusinessAudience",
-        "audienceType": "Electrical Distributors, Electrical Installers, Engineers (Industrial Projects)"
+        "audienceType": "Distribuidores eléctricos, Instaladores eléctricos, Ingenieros (Proyectos industriales)"
       },
       "subjectOf": {
         "@type": "DigitalDocument",
-        "name": "Ficha T\u00e9cnica - XTREM\u00ae H07RN-F",
+        "name": "Ficha Técnica - XTREM® H07RN-F",
         "url": "https://www.topcable.com/downloads/pdf/es/topcable-datasheet-xtrem-h07rn-f-es.pdf",
         "encodingFormat": "application/pdf",
-        "description": "Especificaciones t\u00e9cnicas completas, datos de ingenier\u00eda y certificaciones del cable."
+        "description": "Especificaciones técnicas completas, datos de ingeniería y certificaciones del cable."
       },
       "additionalProperty": [
         {
           "@type": "PropertyValue",
           "name": "Conductor",
-          "value": "Cobre electrol\u00edtico recocido, clase 5 (flexible) seg\u00fan UNE-EN 60228 e IEC 60228",
+          "value": "Cobre electrolítico recocido, clase 5 (flexible) según UNE-EN 60228 e IEC 60228",
           "url": "https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=151-12-05"
         },
         {
           "@type": "PropertyValue",
-          "name": "Insulation",
-          "value": "Goma tipo EI7 seg\u00fan EN 50363-1"
+          "name": "Aislamiento",
+          "value": "Goma tipo EI7 según EN 50363-1"
         },
         {
           "@type": "PropertyValue",
-          "name": "Outer Sheath",
-          "value": "Goma flexible, tipo EM2 seg\u00fan EN 50363-2-1. Color negro"
+          "name": "Cubierta exterior",
+          "value": "Goma flexible, tipo EM2 según EN 50363-2-1. Color negro"
         },
         {
           "@type": "PropertyValue",
-          "name": "Rated Voltage",
+          "name": "Tensión nominal",
           "value": "450/750",
           "unitText": "V"
         },
         {
           "@type": "PropertyValue",
-          "name": "Maximum Conductor Temperature",
+          "name": "Temperatura máxima del conductor",
           "value": "90",
-          "unitText": "\u00b0C"
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
-          "name": "Maximum Short-Circuit Temperature",
-          "value": "250 (m\u00e1ximo 5 s)",
-          "unitText": "\u00b0C"
+          "name": "Temperatura máxima de cortocircuito",
+          "value": "250 (máximo 5 s)",
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
-          "name": "Minimum Service Temperature",
-          "value": "-40 (est\u00e1tico con protecci\u00f3n) y -25 (servicio m\u00f3vil)",
-          "unitText": "\u00b0C"
+          "name": "Temperatura mínima de servicio",
+          "value": "-40 (estático con protección) y -25 (servicio móvil)",
+          "unitText": "°C"
         },
         {
           "@type": "PropertyValue",
-          "name": "Flame Non-Propagation",
-          "value": "No propagaci\u00f3n de la llama seg\u00fan UNE-EN 60332-1 / IEC 60332-1"
+          "name": "No propagación de la llama",
+          "value": "No propagación de la llama según UNE-EN 60332-1 / IEC 60332-1"
         },
         {
           "@type": "PropertyValue",
-          "name": "CPR Classification",
-          "value": "Eca seg\u00fan EN 50575"
+          "name": "Clasificación CPR",
+          "value": "Eca según EN 50575"
         },
         {
           "@type": "PropertyValue",
-          "name": "Minimum Bending Radius",
-          "value": "3x di\u00e1metro exterior < 12 mm, 4x di\u00e1metro exterior \u2265 12 mm"
+          "name": "Radio mínimo de curvatura",
+          "value": "3x diámetro exterior < 12 mm, 4x diámetro exterior ≥ 12 mm"
         },
         {
           "@type": "PropertyValue",
-          "name": "Impact Resistance",
+          "name": "Resistencia al impacto",
           "value": "AG2 Medio"
         },
         {
           "@type": "PropertyValue",
-          "name": "Chemical & Oil Resistance",
+          "name": "Resistencia química y a aceites",
           "value": "Excelente. Resistencia a grasas y aceites: Excelente"
         },
         {
           "@type": "PropertyValue",
-          "name": "UV Resistance",
-          "value": "Resistencia a los rayos ultravioleta seg\u00fan EN 50618"
+          "name": "Resistencia a los UV",
+          "value": "Resistencia a los rayos ultravioleta según EN 50618"
         },
         {
           "@type": "PropertyValue",
-          "name": "Water Resistance",
-          "value": "AD8 sumergido. Apto para bombas sumergibles y agua potable seg\u00fan NZS 4020. Apto para pozos profundos. AWQC"
+          "name": "Resistencia al agua",
+          "value": "AD8 sumergido. Apto para bombas sumergibles y agua potable según NZS 4020. Apto para pozos profundos. AWQC"
         },
         {
           "@type": "PropertyValue",
-          "name": "Installation Conditions",
+          "name": "Condiciones de instalación",
           "value": "Al aire. Cable para bombas sumergibles"
         },
         {
           "@type": "PropertyValue",
-          "name": "Standards (According To)",
+          "name": "Normas (Según)",
           "value": "EN 50525-2-21, IEC 60092-353, IEC 60245-4"
         },
         {
           "@type": "PropertyValue",
-          "name": "Standards and Approvals",
+          "name": "Normas y aprobaciones",
           "value": "HAR, AENOR, SEC, DNV, RoHS, CE"
         },
         {
           "@type": "PropertyValue",
-          "name": "Typical Applications",
-          "value": "Uso industrial, Motores el\u00e9ctricos, Bombas sumergibles, Servicio m\u00f3vil"
+          "name": "Aplicaciones típicas",
+          "value": "Uso industrial, Motores eléctricos, Bombas sumergibles, Servicio móvil"
         },
         {
           "@type": "PropertyValue",
-          "name": "European Stock",
-          "value": "Largest European Stock Holding"
+          "name": "Stock europeo",
+          "value": "El mayor stock europeo de cables"
         },
         {
           "@type": "PropertyValue",
-          "name": "Manufacturing Quality",
-          "value": "As cable manufacturers, we ensure cost-effective premium quality and lasting performance."
+          "name": "Calidad de fabricación",
+          "value": "Como fabricantes de cables, garantizamos una calidad premium rentable y un rendimiento duradero."
         },
         {
           "@type": "PropertyValue",
-          "name": "Quality Testing",
-          "value": "Our in-house labs guarantee rigorous cable quality, reliability, and standards compliance."
+          "name": "Control de calidad",
+          "value": "Nuestros laboratorios internos garantizan una rigurosa calidad del cable, fiabilidad y cumplimiento normativo."
         },
         {
           "@type": "PropertyValue",
-          "name": "Global Logistics",
-          "value": "Global cable delivery solutions\u2014expert logistics for seamless supply."
+          "name": "Logística mundial",
+          "value": "Soluciones logísticas mundiales para cables — experiencia logística para un suministro sin interrupciones."
         },
         {
           "@type": "PropertyValue",
-          "name": "Fast Delivery",
-          "value": "Full cable stock, ready for fast delivery- shortest lead times."
+          "name": "Entrega rápida",
+          "value": "Stock completo de cables, listo para entrega rápida — plazos de entrega más cortos."
         },
         {
           "@type": "PropertyValue",
-          "name": "Sustainability",
-          "value": "EPD-certified cables: Sustainable manufacturing for your Scope 3 success."
+          "name": "Sostenibilidad",
+          "value": "Cables con certificación EPD: fabricación sostenible para su éxito en Scope 3."
         },
         {
           "@type": "PropertyValue",
-          "name": "Customer Service",
-          "value": "Expert, friendly and professional sales team offering a fast & efficient customer service. Global customers are welcome!"
+          "name": "Atención al cliente",
+          "value": "Equipo comercial experto, cercano y profesional ofreciendo una atención al cliente rápida y eficiente. ¡Clientes internacionales bienvenidos!"
         }
       ],
       "offers": {
@@ -202,7 +202,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "XTREM\u00ae H07RN-F"
+          "name": "XTREM® H07RN-F"
         }
       ]
     },
@@ -216,7 +216,7 @@
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Carrer de Leonardo da Vinci, 1",
-        "addressLocality": "Rub\u00ed",
+        "addressLocality": "Rubí",
         "addressRegion": "Barcelona",
         "postalCode": "08191",
         "addressCountry": "ES"
