@@ -1,0 +1,242 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "name": "POWERHARD® RV Al / U-1000 AR2V",
+      "mpn": "RV Al / U-1000 AR2V",
+      "sku": "RV Al / U-1000 AR2V",
+      "description": "Cable de aluminio para transmisión de energía. NORMAS DE REFERENCIA: IEC 60502-1 / UNE 21123-2 / UNE HD 603-5N. El POWERHARD® RV Al / U-1000 AR2V es un cable rígido de aluminio recomendado para instalaciones de configuración sencilla donde no se necesita cable flexible. Apto para todo tipo de redes subterráneas de distribución pública de energía, conexiones de baja tensión en plantas industriales, redes urbanas y edificios.",
+      "image": [
+        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-rv-al-u-1000-ar2v-aluminium-cabe-for-power-transmission-01.png",
+        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_POWERHARD_RV_AL_U_100_AR2V.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/bobina_negra.png"
+      ],
+      "url": "https://www.topcable.com/es/cable/powerhard-rv-al-u-1000-ar2v/",
+      "category": "Ferretería > Materiales de construcción > Cableado y cables > Cables eléctricos",
+      "brand": {
+        "@type": "Brand",
+        "name": "POWERHARD®",
+        "url": "https://www.topcable.com/company/our-brands/"
+      },
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.topcable.com/#organization"
+      },
+      "material": "Aluminio, clase 2",
+      "audience": {
+        "@type": "BusinessAudience",
+        "audienceType": "Distribuidores eléctricos, Instaladores eléctricos, Ingenieros (Proyectos industriales)"
+      },
+      "subjectOf": {
+        "@type": "DigitalDocument",
+        "name": "Ficha Técnica - POWERHARD® RV Al / U-1000 AR2V",
+        "url": "https://www.topcable.com/downloads/pdf/es/topcable-datasheet-powerhard-rv-al-u-1000-ar2v-es.pdf",
+        "encodingFormat": "application/pdf",
+        "description": "Especificaciones técnicas completas, datos de ingeniería y certificaciones del cable."
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Conductor",
+          "value": "Aluminio, clase 2 según UNE-EN 60228 e IEC 60228"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aislamiento",
+          "value": "Polietileno reticulado tipo XLPE según IEC 60502-1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Cubierta exterior",
+          "value": "PVC (flexible). Color negro"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tensión nominal",
+          "value": "0.6/1",
+          "unitText": "kV"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Temperatura máxima del conductor",
+          "value": "90",
+          "unitText": "°C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Temperatura máxima de cortocircuito",
+          "value": "250 (máximo 5 s)",
+          "unitText": "°C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Temperatura mínima de servicio",
+          "value": "-40 (estático con protección)",
+          "unitText": "°C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "No propagación de la llama",
+          "value": "No propagación de la llama según UNE-EN 60332-1 / IEC 60332-1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Clasificación CPR",
+          "value": "Eca según EN 50575"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Halógenos reducidos",
+          "value": "Halógenos reducidos, Cloro < 15%. Categoría C2 según NF C 32-070"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Radio mínimo de curvatura",
+          "value": "5x diámetro exterior"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Resistencia al impacto",
+          "value": "AG3 Severidad alta (≤5J)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Resistencia química y a aceites",
+          "value": "Buena"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Resistencia a los UV",
+          "value": "Resistencia a los rayos ultravioleta según UNE 211605 y NF C 32-321"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Resistencia al agua",
+          "value": "AD8 Sumersión"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Condiciones de instalación",
+          "value": "Al aire. Enterrado. Entubado."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Normas (Según)",
+          "value": "IEC 60502-1, UNE 21123-2, UNE HD 603-5N, XP C 32-321"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Normas y aprobaciones",
+          "value": "AENOR, NF-USE, RoHS, CE"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aplicaciones típicas",
+          "value": "Distribución de energía, Instalaciones industriales, Instalaciones FV enterradas"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Stock europeo",
+          "value": "El mayor stock europeo de cables"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Calidad de fabricación",
+          "value": "Como fabricantes de cables, garantizamos una calidad premium rentable y un rendimiento duradero."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Control de calidad",
+          "value": "Nuestros laboratorios internos garantizan una rigurosa calidad del cable, fiabilidad y cumplimiento normativo."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Logística mundial",
+          "value": "Soluciones logísticas mundiales para cables — experiencia logística para un suministro sin interrupciones."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Entrega rápida",
+          "value": "Stock completo de cables, listo para entrega rápida — plazos de entrega más cortos."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Sostenibilidad",
+          "value": "Cables con certificación EPD: fabricación sostenible para su éxito en Scope 3."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Atención al cliente",
+          "value": "Equipo comercial experto, cercano y profesional ofreciendo una atención al cliente rápida y eficiente. ¡Clientes internacionales bienvenidos!"
+        }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.topcable.com/es/cable/powerhard-rv-al-u-1000-ar2v/",
+        "priceCurrency": "EUR",
+        "price": 0,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "eligibleRegion": {
+          "@type": "Place",
+          "name": "World"
+        },
+        "seller": {
+          "@type": "Organization",
+          "@id": "https://www.topcable.com/#organization"
+        }
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://www.topcable.com/es/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cables de energía",
+          "item": "https://www.topcable.com/es/cables-de-energia/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "POWERHARD® RV Al / U-1000 AR2V"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.topcable.com/#organization",
+      "name": "Top Cable",
+      "url": "https://www.topcable.com/",
+      "email": "sales@topcable.com",
+      "telephone": "+34 935 880 911",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Carrer de Leonardo da Vinci, 1",
+        "addressLocality": "Rubí",
+        "addressRegion": "Barcelona",
+        "postalCode": "08191",
+        "addressCountry": "ES"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://www.topcable.com/#logo",
+        "url": "https://www.topcable.com/wp-content/uploads/2026/01/top-cable-logo.png",
+        "contentUrl": "https://www.topcable.com/wp-content/uploads/2026/01/top-cable-logo.png"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/topcable/",
+        "https://www.youtube.com/@Topcable_europe",
+        "https://www.instagram.com/topcable_spain/",
+        "https://www.facebook.com/topcable/"
+      ]
+    }
+  ]
+}

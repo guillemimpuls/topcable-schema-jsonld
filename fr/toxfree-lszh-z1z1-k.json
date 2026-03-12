@@ -1,0 +1,263 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "name": "TOXFREE® LSZH Z1Z1-K",
+      "mpn": "Z1Z1-K",
+      "sku": "Z1Z1-K",
+      "description": "Câble d'alimentation LSZH souple pour les lieux publics. SELON : UNE 21123-4. Le TOXFREE® LSZH Z1Z1-K est un câble de sécurité LSZH. En cas d'incendie, il n'émet pas de gaz toxiques ni de gaz corrosifs, évitant tout dommage possible aux personnes ou aux équipements électroniques. Fortement recommandé pour les lieux publics tels que : hôpitaux, écoles, musées, aéroports, gares routières, centres commerciaux, bureaux et laboratoires.",
+      "image": [
+        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-z1z1-k-flexible-lszh-power-cable-for-public-places-01.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_TOXFREE_ZH_Z1Z1_K.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/bobina_verde.png"
+      ],
+      "url": "https://www.topcable.com/fr/cable/toxfree-lszh-z1z1-k/",
+      "category": "Quincaillerie > Matériaux de construction > Câblage et câbles > Câbles électriques",
+      "brand": {
+        "@type": "Brand",
+        "name": "TOXFREE®",
+        "url": "https://www.topcable.com/fr/company/nos-marques/"
+      },
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.topcable.com/#organization"
+      },
+      "material": "Cuivre, classe 5 (souple)",
+      "audience": {
+        "@type": "BusinessAudience",
+        "audienceType": "Distributeurs électriques, Installateurs électriques, Ingénieurs (Bâtiments publics et hôpitaux), Ingénieurs (Projets industriels), Opérateurs de centres de données, Consultants en conception de centres de données, Entrepreneurs de centres de données, Installateurs de centres de données"
+      },
+      "subjectOf": {
+        "@type": "DigitalDocument",
+        "name": "Fiche Technique - TOXFREE® LSZH Z1Z1-K",
+        "url": "https://www.topcable.com/downloads/pdf/fr/topcable-datasheet-toxfree-lszh-z1z1-k-fr.pdf",
+        "encodingFormat": "application/pdf",
+        "description": "Spécifications techniques complètes, données d'ingénierie et certifications du câble."
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Conducteur",
+          "value": "Cuivre électrolytique, classe 5 (souple) selon EN 60228 et IEC 60228",
+          "url": "https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=151-12-05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Isolation",
+          "value": "Polyéthylène réticulé type XLPE selon UNE 21123-4"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gaine extérieure",
+          "value": "Polyoléfine ignifugée, à faible dégagement de fumée et sans halogène. Couleur verte"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tension nominale",
+          "value": "0.6/1",
+          "unitText": "kV"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Température maximale du conducteur",
+          "value": "70",
+          "unitText": "°C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Température maximale de court-circuit",
+          "value": "160 (max. 5 s)",
+          "unitText": "°C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Température minimale de service",
+          "value": "-40 (installations fixes et protégées)",
+          "unitText": "°C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Non-propagation de la flamme",
+          "value": "Non-propagation de la flamme selon EN 60332-1 et IEC 60332-1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Non-propagation de l'incendie",
+          "value": "Non-propagation de l'incendie selon UNE-EN 60332-3 et IEC 60332-3 et EN 50399"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Classification CPR",
+          "value": "B2ca-s1a, d1, a1 selon EN 50575"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Sans halogène",
+          "value": "Sans halogène selon EN 60754-1 et IEC 60754-1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Faible émission de gaz corrosifs",
+          "value": "Faible émission de gaz corrosifs selon EN 60754-2 et IEC 60754-2"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Faible émission de fumée",
+          "value": "Faible émission de fumée selon UNE-EN 61034 et IEC 61034"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Transmittance lumineuse",
+          "value": "> 80%"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Rayon de courbure minimum",
+          "value": "5x diamètre du câble"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Résistance aux chocs",
+          "value": "AG2 Sévérité moyenne"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Résistance chimique et aux huiles",
+          "value": "Acceptable"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Résistance aux UV",
+          "value": "Résistance aux UV selon EN 50618"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Résistance à l'eau",
+          "value": "AD5 Jets"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Conditions d'installation",
+          "value": "À l'air libre. Enterré. En canalisation."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Normes (Selon)",
+          "value": "UNE 21123-4"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Normes et approbations",
+          "value": "RoHS, CE"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Applications typiques",
+          "value": "Bâtiments à forte occupation, Installations industrielles, Distribution d'énergie"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Stock européen",
+          "value": "Le plus grand stock européen de câbles"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Qualité de fabrication",
+          "value": "En tant que fabricants de câbles, nous garantissons une qualité premium rentable et des performances durables."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Contrôle de qualité",
+          "value": "Nos laboratoires internes garantissent une qualité rigoureuse des câbles, fiabilité et conformité aux normes."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Logistique mondiale",
+          "value": "Solutions logistiques mondiales pour câbles — expertise logistique pour un approvisionnement sans faille."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Livraison rapide",
+          "value": "Stock complet de câbles, prêt pour une livraison rapide — délais les plus courts."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durabilité",
+          "value": "Câbles certifiés EPD : fabrication durable pour votre succès Scope 3."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Service client",
+          "value": "Équipe commerciale experte, conviviale et professionnelle offrant un service client rapide et efficace. Clients internationaux bienvenus !"
+        }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.topcable.com/fr/cable/toxfree-lszh-z1z1-k/",
+        "priceCurrency": "EUR",
+        "price": 0,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "eligibleRegion": {
+          "@type": "Place",
+          "name": "World"
+        },
+        "seller": {
+          "@type": "Organization",
+          "@id": "https://www.topcable.com/#organization"
+        }
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Accueil",
+          "item": "https://www.topcable.com/fr/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Câbles LSZH",
+          "item": "https://www.topcable.com/fr/cables-lszh/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "TOXFREE® LSZH Z1Z1-K"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.topcable.com/#organization",
+      "name": "Top Cable",
+      "url": "https://www.topcable.com/",
+      "email": "sales@topcable.com",
+      "telephone": "+34 935 880 911",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Carrer de Leonardo da Vinci, 1",
+        "addressLocality": "Rubí",
+        "addressRegion": "Barcelona",
+        "postalCode": "08191",
+        "addressCountry": "ES"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://www.topcable.com/#logo",
+        "url": "https://www.topcable.com/wp-content/uploads/2026/01/top-cable-logo.png",
+        "contentUrl": "https://www.topcable.com/wp-content/uploads/2026/01/top-cable-logo.png"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/topcable/",
+        "https://www.youtube.com/@Topcable_europe",
+        "https://www.instagram.com/topcable_spain/",
+        "https://www.facebook.com/topcable/"
+      ]
+    }
+  ]
+}
