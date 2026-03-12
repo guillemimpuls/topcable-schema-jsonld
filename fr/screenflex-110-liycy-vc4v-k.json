@@ -1,0 +1,252 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "name": "SCREENFLEX® 110/200 LiYCY VC4V-K",
+      "mpn": "LiYCY VC4V-K",
+      "sku": "LiYCY VC4V-K",
+      "description": "Câble PVC souple blindé, pour la transmission sécurisée de signaux. SELON : EN 50525 / IEC 60502-1. Le SCREENFLEX® 110/200 LiYCY VC4V-K est un câble de commande blindé pour les circuits de commande, les connexions d'équipements électroniques et les systèmes informatiques. L'écran en bande aluminium-polyester avec drain en cuivre étamé assure un blindage EMI/RFI supérieur garantissant l'intégrité du signal dans les environnements électriquement bruyants.",
+      "image": [
+        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-liycy-vc4v-k-flexible-screened-pvc-cable-for-safe-signal-transmission-01.png",
+        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_SCREENFLEX_110_LIYCY_VC4V_K_200_VC4V_K.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/bobina_gris.png"
+      ],
+      "url": "https://www.topcable.com/fr/cable/screenflex-110-liycy-vc4v-k/",
+      "category": "Quincaillerie > Matériaux de construction > Câblage et câbles > Câbles électriques",
+      "brand": {
+        "@type": "Brand",
+        "name": "SCREENFLEX®",
+        "url": "https://www.topcable.com/fr/company/nos-marques/"
+      },
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.topcable.com/#organization"
+      },
+      "material": "Cuivre, classe 5 (souple)",
+      "audience": {
+        "@type": "BusinessAudience",
+        "audienceType": "Distributeurs électriques, Installateurs électriques, Ingénieurs (Projets industriels)"
+      },
+      "subjectOf": {
+        "@type": "DigitalDocument",
+        "name": "Fiche Technique - SCREENFLEX® 110/200 LiYCY VC4V-K",
+        "url": "https://www.topcable.com/downloads/pdf/fr/topcable-datasheet-screenflex-110-200-liycy-vc4v-k-fr.pdf",
+        "encodingFormat": "application/pdf",
+        "description": "Spécifications techniques complètes, données d'ingénierie et certifications du câble."
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Conducteur",
+          "value": "Cuivre électrolytique, classe 5 (souple) selon EN 60228 et IEC 60228",
+          "url": "https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=151-12-05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Isolation",
+          "value": "PVC (souple) selon EN 50525"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Écran",
+          "value": "Écran en bande aluminium-polyester à recouvrement avec couverture 100% et drain en cuivre étamé"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gaine extérieure",
+          "value": "PVC (souple). Couleur noire ou grise"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tension nominale",
+          "value": "300/500 V (jusqu'à 1,5 mm²) et 0,6/1 kV (à partir de 2,5 mm²)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Température maximale du conducteur",
+          "value": "70",
+          "unitText": "°C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Température maximale de court-circuit",
+          "value": "160 (max. 5 s)",
+          "unitText": "°C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Température minimale de service",
+          "value": "-40 (installations fixes et protégées)",
+          "unitText": "°C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Non-propagation de la flamme",
+          "value": "Non-propagation de la flamme selon EN 60332-1 et IEC 60332-1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Non-propagation de l'incendie",
+          "value": "Non-propagation de l'incendie selon EN 60332-3 et IEC 60332-3 (gaine grise uniquement)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Classification CPR",
+          "value": "Cca-s2, d1, a3 (gris 300/500 V) / Cca-s3, d1, a3 (gris 0,6/1 kV) / Eca (noir) selon EN 50575"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Halogènes réduits",
+          "value": "Halogènes réduits, Chlore < 15%"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Rayon de courbure minimum",
+          "value": "5x diamètre du câble"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Résistance aux chocs",
+          "value": "AG2 Sévérité moyenne"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Résistance chimique et aux huiles",
+          "value": "Bonne"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Résistance aux UV",
+          "value": "Résistance aux UV selon UNE 211605"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Résistance à l'eau",
+          "value": "AD5 Jets"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Conditions d'installation",
+          "value": "À l'air libre. Enterré. En canalisation."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Normes (Selon)",
+          "value": "EN 50525, IEC 60502-1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Normes et approbations",
+          "value": "RoHS, CE"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Applications typiques",
+          "value": "Circuits de contrôle, Équipements électroniques, Transmission de signaux"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Stock européen",
+          "value": "Le plus grand stock européen de câbles"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Qualité de fabrication",
+          "value": "En tant que fabricants de câbles, nous garantissons une qualité premium rentable et des performances durables."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Contrôle de qualité",
+          "value": "Nos laboratoires internes garantissent une qualité rigoureuse des câbles, fiabilité et conformité aux normes."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Logistique mondiale",
+          "value": "Solutions logistiques mondiales pour câbles — expertise logistique pour un approvisionnement sans faille."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Livraison rapide",
+          "value": "Stock complet de câbles, prêt pour une livraison rapide — délais les plus courts."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durabilité",
+          "value": "Câbles certifiés EPD : fabrication durable pour votre succès Scope 3."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Service client",
+          "value": "Équipe commerciale experte, conviviale et professionnelle offrant un service client rapide et efficace. Clients internationaux bienvenus !"
+        }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.topcable.com/fr/cable/screenflex-110-liycy-vc4v-k/",
+        "priceCurrency": "EUR",
+        "price": 0,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "eligibleRegion": {
+          "@type": "Place",
+          "name": "World"
+        },
+        "seller": {
+          "@type": "Organization",
+          "@id": "https://www.topcable.com/#organization"
+        }
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Accueil",
+          "item": "https://www.topcable.com/fr/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Câbles PVC",
+          "item": "https://www.topcable.com/fr/cables-pvc/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SCREENFLEX® 110/200 LiYCY VC4V-K"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.topcable.com/#organization",
+      "name": "Top Cable",
+      "url": "https://www.topcable.com/",
+      "email": "sales@topcable.com",
+      "telephone": "+34 935 880 911",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Carrer de Leonardo da Vinci, 1",
+        "addressLocality": "Rubí",
+        "addressRegion": "Barcelona",
+        "postalCode": "08191",
+        "addressCountry": "ES"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://www.topcable.com/#logo",
+        "url": "https://www.topcable.com/wp-content/uploads/2026/01/top-cable-logo.png",
+        "contentUrl": "https://www.topcable.com/wp-content/uploads/2026/01/top-cable-logo.png"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/topcable/",
+        "https://www.youtube.com/@Topcable_europe",
+        "https://www.instagram.com/topcable_spain/",
+        "https://www.facebook.com/topcable/"
+      ]
+    }
+  ]
+}

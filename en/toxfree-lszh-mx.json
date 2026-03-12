@@ -1,0 +1,238 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "name": "TOXFREE® LSZH MX",
+      "mpn": "MX",
+      "sku": "MX",
+      "description": "Flexible and halogen free 90°C cable for marine applications. ACCORDING TO: IEC 60092-353. TOXFREE® LSZH MX is a flexible cable for fixed and protected installations. It is highly recommended in marine applications and for use in public places. Suitable for power, control, and instrumentation applications on fishing vessels, merchant vessels, cruise ships and yachts. DNV-GL certified.",
+      "image": [
+        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-mx-flexible-and-halogen-free-90c-cable-for-marine-applications-01.png",
+        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_TOXFREE_LSZH_MX.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/bobina_negra.png"
+      ],
+      "url": "https://www.topcable.com/cable/toxfree-lszh-mx/",
+      "category": "Hardware > Building Materials > Wiring & Cables > Electrical Cables",
+      "brand": {
+        "@type": "Brand",
+        "name": "TOXFREE®",
+        "url": "https://www.topcable.com/company/our-brands/"
+      },
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.topcable.com/#organization"
+      },
+      "material": "Copper, class 5 (flexible)",
+      "audience": {
+        "@type": "BusinessAudience",
+        "audienceType": "Electrical Distributors, Electrical Installers, Engineers (Marine & Shipbuilding Projects)"
+      },
+      "subjectOf": {
+        "@type": "DigitalDocument",
+        "name": "Technical Datasheet - TOXFREE® LSZH MX",
+        "url": "https://www.topcable.com/downloads/pdf/en/topcable-datasheet-toxfree-lszh-mx-en.pdf",
+        "encodingFormat": "application/pdf",
+        "description": "Complete technical specifications, engineering data and certifications for the cable."
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Conductor",
+          "value": "Electrolytic annealed copper, class 5 (flexible) according to EN 60228 and IEC 60228",
+          "url": "https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=151-12-05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Insulation",
+          "value": "Rubber LSZH according to IEC 60092-353"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Rated Voltage",
+          "value": "0.6/1",
+          "unitText": "kV"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Maximum Conductor Temperature",
+          "value": "90",
+          "unitText": "°C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Maximum Short-Circuit Temperature",
+          "value": "250 (max. 5 s)",
+          "unitText": "°C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum Service Temperature",
+          "value": "-40 (fixed and protected installations)",
+          "unitText": "°C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Flame Non-Propagation",
+          "value": "Flame non-propagation according to EN 60332-1 / IEC 60332-1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Fire Non-Propagation",
+          "value": "Fire non-propagation according to EN 60332-3-22 / IEC 60332-3-22"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Halogen Free",
+          "value": "Halogen free according to EN 60754-1 / IEC 60754-1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Low Corrosive Gases Emission",
+          "value": "Low corrosive gases emission according to EN 60754-2 / IEC 60754-2"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Low Smoke Emission",
+          "value": "Low smoke emission according to UNE-EN 61034 / IEC 61034"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Light Transmittance",
+          "value": "> 60%"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum Bending Radius",
+          "value": "4x cable diameter"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Chemical & Oil Resistance",
+          "value": "Acceptable"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Installation Conditions",
+          "value": "Open Air. In conduit on bulkhead. On bulkhead."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Standards (According To)",
+          "value": "IEC 60092-353"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Standards and Approvals",
+          "value": "DNV-GL, RoHS, CE"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Typical Applications",
+          "value": "Marine vessels, Fishing vessels, Cruise ships & Yachts"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "European Stock",
+          "value": "Largest European Stock Holding"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Manufacturing Quality",
+          "value": "As cable manufacturers, we ensure cost-effective premium quality and lasting performance."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Quality Testing",
+          "value": "Our in-house labs guarantee rigorous cable quality, reliability, and standards compliance."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Global Logistics",
+          "value": "Global cable delivery solutions—expert logistics for seamless supply."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Fast Delivery",
+          "value": "Full cable stock, ready for fast delivery- shortest lead times."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Sustainability",
+          "value": "EPD-certified cables: Sustainable manufacturing for your Scope 3 success."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Customer Service",
+          "value": "Expert, friendly and professional sales team offering a fast & efficient customer service. Global customers are welcome!"
+        }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.topcable.com/cable/toxfree-lszh-mx/",
+        "priceCurrency": "EUR",
+        "price": 0,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "eligibleRegion": {
+          "@type": "Place",
+          "name": "World"
+        },
+        "seller": {
+          "@type": "Organization",
+          "@id": "https://www.topcable.com/#organization"
+        }
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.topcable.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "LSZH Cables",
+          "item": "https://www.topcable.com/lszh-cables/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "TOXFREE® LSZH MX"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.topcable.com/#organization",
+      "name": "Top Cable",
+      "url": "https://www.topcable.com/",
+      "email": "sales@topcable.com",
+      "telephone": "+34 935 880 911",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Carrer de Leonardo da Vinci, 1",
+        "addressLocality": "Rubí",
+        "addressRegion": "Barcelona",
+        "postalCode": "08191",
+        "addressCountry": "ES"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://www.topcable.com/#logo",
+        "url": "https://www.topcable.com/wp-content/uploads/2026/01/top-cable-logo.png",
+        "contentUrl": "https://www.topcable.com/wp-content/uploads/2026/01/top-cable-logo.png"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/topcable/",
+        "https://www.youtube.com/@Topcable_europe",
+        "https://www.instagram.com/topcable_spain/",
+        "https://www.facebook.com/topcable/"
+      ]
+    }
+  ]
+}

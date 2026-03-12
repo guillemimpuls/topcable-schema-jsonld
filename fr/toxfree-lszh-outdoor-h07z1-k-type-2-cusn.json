@@ -1,0 +1,253 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "name": "TOXFREE® LSZH OUTDOOR H07Z1-K type 2 CuSn",
+      "mpn": "OUTDOOR H07Z1-K CuSn",
+      "sku": "OUTDOOR H07Z1-K CuSn",
+      "description": "Câble de mise à la terre avec conducteur en cuivre étamé. SELON : EN 50525-3-31 / UNE 211002. Le TOXFREE® LSZH OUTDOOR H07Z1-K type 2 CuSn est un câble spécialement conçu pour les mises à la terre dans les installations extérieures. Le conducteur en cuivre étamé et les composés spéciaux de son isolation le rendent hautement résistant à la corrosion et à la dégradation UV, évitant la corrosion galvanique lors de la connexion de métaux de potentiel différent. Câble LSZH sans halogène avec la classification CPR la plus élevée (B2ca-s1a, d1, a1) et protection UV selon la norme solaire EN 50618.",
+      "image": [
+        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-h07z1-k-type-2-cusn-grounding-cable-with-tinned-copper-conductor-01.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_TOXFREE_ZH_OUTDOOR_H07Z1_K.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/bobina_verde.png"
+      ],
+      "url": "https://www.topcable.com/fr/cable/toxfree-lszh-outdoor-h07z1-k-type-2-cusn/",
+      "category": "Quincaillerie > Matériaux de construction > Câblage et câbles > Câbles électriques",
+      "brand": {
+        "@type": "Brand",
+        "name": "TOXFREE®",
+        "url": "https://www.topcable.com/fr/company/nos-marques/"
+      },
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.topcable.com/#organization"
+      },
+      "material": "Cuivre étamé, classe 5 (souple)",
+      "audience": {
+        "@type": "BusinessAudience",
+        "audienceType": "Distributeurs électriques, Installateurs électriques, Ingénieurs (Projets solaires et photovoltaïques)"
+      },
+      "subjectOf": {
+        "@type": "DigitalDocument",
+        "name": "Fiche Technique - TOXFREE® LSZH OUTDOOR H07Z1-K type 2 CuSn",
+        "url": "https://www.topcable.com/downloads/pdf/fr/topcable-datasheet-toxfree-lszh-outdoor-h07z1-k-type-2-cusn-fr.pdf",
+        "encodingFormat": "application/pdf",
+        "description": "Spécifications techniques complètes, données d'ingénierie et certifications du câble."
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Conducteur",
+          "value": "Cuivre étamé, classe 5 (souple) selon EN 60228 et IEC 60228",
+          "url": "https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=151-12-05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Isolation",
+          "value": "Polyoléfine LSZH, résistante aux UV selon EN 50525-3-31"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tension nominale",
+          "value": "450/750",
+          "unitText": "V"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Température maximale du conducteur",
+          "value": "70",
+          "unitText": "°C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Température maximale de court-circuit",
+          "value": "160 (max. 5 s)",
+          "unitText": "°C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Température minimale de service",
+          "value": "-40 (installations fixes et protégées)",
+          "unitText": "°C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Non-propagation de la flamme",
+          "value": "Non-propagation de la flamme selon EN 60332-1 et IEC 60332-1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Non-propagation de l'incendie",
+          "value": "Non-propagation de l'incendie selon EN 60332-3-24 et IEC 60332-3-24 et EN 50399"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Classification CPR",
+          "value": "B2ca-s1a, d1, a1 selon EN 50575"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Sans halogène",
+          "value": "Sans halogène selon EN 60754-1 et IEC 60754-1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Faible émission de gaz corrosifs",
+          "value": "Faible émission de gaz corrosifs selon EN 60754-2 et IEC 60754-2"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Faible émission de fumée",
+          "value": "Faible émission de fumée selon UNE-EN 61034 et IEC 61034"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Transmittance lumineuse",
+          "value": "> 80%"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Rayon de courbure minimum",
+          "value": "5x diamètre du câble"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Résistance chimique et aux huiles",
+          "value": "Excellente. Résistance aux graisses et huiles minérales : Excellente"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Résistance aux UV",
+          "value": "Résistance aux UV selon EN 50618"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Résistance à l'ozone",
+          "value": "Résistance à l'ozone selon EN 50618"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Conditions d'installation",
+          "value": "À l'air libre"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Normes (Selon)",
+          "value": "EN 50525-3-31, UNE 211002"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Normes et approbations",
+          "value": "HAR, BUREAU VERITAS, AENOR, RoHS, CE"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Applications typiques",
+          "value": "Installations solaires, Mise à la terre photovoltaïque, Installations extérieures"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Stock européen",
+          "value": "Le plus grand stock européen de câbles"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Qualité de fabrication",
+          "value": "En tant que fabricants de câbles, nous garantissons une qualité premium rentable et des performances durables."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Contrôle de qualité",
+          "value": "Nos laboratoires internes garantissent une qualité rigoureuse des câbles, fiabilité et conformité aux normes."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Logistique mondiale",
+          "value": "Solutions logistiques mondiales pour câbles — expertise logistique pour un approvisionnement sans faille."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Livraison rapide",
+          "value": "Stock complet de câbles, prêt pour une livraison rapide — délais les plus courts."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durabilité",
+          "value": "Câbles certifiés EPD : fabrication durable pour votre succès Scope 3."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Service client",
+          "value": "Équipe commerciale experte, conviviale et professionnelle offrant un service client rapide et efficace. Clients internationaux bienvenus !"
+        }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.topcable.com/fr/cable/toxfree-lszh-outdoor-h07z1-k-type-2-cusn/",
+        "priceCurrency": "EUR",
+        "price": 0,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "eligibleRegion": {
+          "@type": "Place",
+          "name": "World"
+        },
+        "seller": {
+          "@type": "Organization",
+          "@id": "https://www.topcable.com/#organization"
+        }
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Accueil",
+          "item": "https://www.topcable.com/fr/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Câbles solaires",
+          "item": "https://www.topcable.com/fr/cables-solaires/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "TOXFREE® LSZH OUTDOOR H07Z1-K type 2 CuSn"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.topcable.com/#organization",
+      "name": "Top Cable",
+      "url": "https://www.topcable.com/",
+      "email": "sales@topcable.com",
+      "telephone": "+34 935 880 911",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Carrer de Leonardo da Vinci, 1",
+        "addressLocality": "Rubí",
+        "addressRegion": "Barcelona",
+        "postalCode": "08191",
+        "addressCountry": "ES"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://www.topcable.com/#logo",
+        "url": "https://www.topcable.com/wp-content/uploads/2026/01/top-cable-logo.png",
+        "contentUrl": "https://www.topcable.com/wp-content/uploads/2026/01/top-cable-logo.png"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/topcable/",
+        "https://www.youtube.com/@Topcable_europe",
+        "https://www.instagram.com/topcable_spain/",
+        "https://www.facebook.com/topcable/"
+      ]
+    }
+  ]
+}

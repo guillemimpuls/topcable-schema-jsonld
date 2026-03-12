@@ -1,0 +1,235 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "name": "SIWO XTREM®",
+      "mpn": "SIWO XTREM",
+      "sku": "SIWO XTREM",
+      "description": "Câble d'alimentation haute température et résistant au feu. SELON : IEC 60502-1. Le SIWO XTREM® est un câble résistant au feu conçu pour les conditions de haute température. L'isolation en caoutchouc silicone et la gaine extérieure en tresse de fils synthétiques vernie PUR offrent une excellente résistance chimique et rigidité diélectrique. Adapté aux convertisseurs éoliens, transformateurs, onduleurs solaires et variateurs.",
+      "image": [
+        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-high-temperature-and-fire-resistant-power-cable-01.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_SIWO_XTREM.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/bobina_negra.png"
+      ],
+      "url": "https://www.topcable.com/fr/cable/siwo-xtrem/",
+      "category": "Quincaillerie > Matériaux de construction > Câblage et câbles > Câbles électriques",
+      "brand": {
+        "@type": "Brand",
+        "name": "SIWO XTREM®",
+        "url": "https://www.topcable.com/fr/company/nos-marques/"
+      },
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.topcable.com/#organization"
+      },
+      "material": "Cuivre étamé, classe 5 (souple)",
+      "audience": {
+        "@type": "BusinessAudience",
+        "audienceType": "Distributeurs électriques, Installateurs électriques, Ingénieurs (Projets industriels)"
+      },
+      "subjectOf": {
+        "@type": "DigitalDocument",
+        "name": "Fiche Technique - SIWO XTREM®",
+        "url": "https://www.topcable.com/downloads/pdf/fr/topcable-datasheet-siwo-xtrem-fr.pdf",
+        "encodingFormat": "application/pdf",
+        "description": "Spécifications techniques complètes, données d'ingénierie et certifications du câble."
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Conducteur",
+          "value": "Cuivre étamé, classe 5 (souple) selon EN 60228 et IEC 60228",
+          "url": "https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=151-12-05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Isolation",
+          "value": "Caoutchouc silicone selon IEC 60502-1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gaine extérieure",
+          "value": "Tresse de fils synthétiques protectrice, vernie PUR. Couleur jaune (1,1 kV), Couleur rouge (3,3 kV)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tension nominale",
+          "value": "1,1 kV et 3,3 kV"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Température maximale du conducteur",
+          "value": "180",
+          "unitText": "°C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Non-propagation de la flamme",
+          "value": "Non-propagation de la flamme selon EN 60332-1 et IEC 60332-1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Non-propagation de l'incendie",
+          "value": "Non-propagation de l'incendie selon EN 60332-3-24 et IEC 60332-3-24 et EN 50399"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Résistance au feu",
+          "value": "Résistance au feu (PH120) minimum 120 minutes à 840°C selon IEC 60331-2 / EN 50200 (diamètre câble ≤ 20 mm) et IEC 60331-1 / EN 50362 (diamètre câble > 20 mm)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Sans halogène",
+          "value": "Sans halogène selon EN 60754-1 et IEC 60754-1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Faible émission de gaz corrosifs",
+          "value": "Faible émission de gaz corrosifs selon EN 60754-2 et IEC 60754-2"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Faible émission de fumée",
+          "value": "Faible émission de fumée selon UNE-EN 61034 et IEC 61034"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Transmittance lumineuse",
+          "value": "> 60%"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Rayon de courbure minimum",
+          "value": "5x diamètre du câble"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Résistance chimique et aux huiles",
+          "value": "Excellente. Résistance aux graisses et huiles minérales : Excellente"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Conditions d'installation",
+          "value": "Installations fixes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Normes (Selon)",
+          "value": "IEC 60502-1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Normes et approbations",
+          "value": "RoHS, CE"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Applications typiques",
+          "value": "Convertisseurs éoliens, Transformateurs, Onduleurs solaires, Variateurs"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Stock européen",
+          "value": "Le plus grand stock européen de câbles"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Qualité de fabrication",
+          "value": "En tant que fabricants de câbles, nous garantissons une qualité premium rentable et des performances durables."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Contrôle de qualité",
+          "value": "Nos laboratoires internes garantissent une qualité rigoureuse des câbles, fiabilité et conformité aux normes."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Logistique mondiale",
+          "value": "Solutions logistiques mondiales pour câbles — expertise logistique pour un approvisionnement sans faille."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Livraison rapide",
+          "value": "Stock complet de câbles, prêt pour une livraison rapide — délais les plus courts."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durabilité",
+          "value": "Câbles certifiés EPD : fabrication durable pour votre succès Scope 3."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Service client",
+          "value": "Équipe commerciale experte, conviviale et professionnelle offrant un service client rapide et efficace. Clients internationaux bienvenus !"
+        }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.topcable.com/fr/cable/siwo-xtrem/",
+        "priceCurrency": "EUR",
+        "price": 0,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "eligibleRegion": {
+          "@type": "Place",
+          "name": "World"
+        },
+        "seller": {
+          "@type": "Organization",
+          "@id": "https://www.topcable.com/#organization"
+        }
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Accueil",
+          "item": "https://www.topcable.com/fr/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Câbles LSZH",
+          "item": "https://www.topcable.com/fr/cables-lszh/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SIWO XTREM®"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.topcable.com/#organization",
+      "name": "Top Cable",
+      "url": "https://www.topcable.com/",
+      "email": "sales@topcable.com",
+      "telephone": "+34 935 880 911",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Carrer de Leonardo da Vinci, 1",
+        "addressLocality": "Rubí",
+        "addressRegion": "Barcelona",
+        "postalCode": "08191",
+        "addressCountry": "ES"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://www.topcable.com/#logo",
+        "url": "https://www.topcable.com/wp-content/uploads/2026/01/top-cable-logo.png",
+        "contentUrl": "https://www.topcable.com/wp-content/uploads/2026/01/top-cable-logo.png"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/topcable/",
+        "https://www.youtube.com/@Topcable_europe",
+        "https://www.instagram.com/topcable_spain/",
+        "https://www.facebook.com/topcable/"
+      ]
+    }
+  ]
+}

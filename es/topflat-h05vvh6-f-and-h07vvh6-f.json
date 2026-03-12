@@ -1,0 +1,237 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "name": "TOPFLAT® H05VVH6-F & H07VVH6-F",
+      "mpn": "H05VVH6-F & H07VVH6-F",
+      "sku": "H05VVH6-F & H07VVH6-F",
+      "description": "Cable plano para ascensores, grúas, polipastos y sistemas de transporte. NORMAS DE REFERENCIA: EN 50214. El TOPFLAT® H05VVH6-F & H07VVH6-F es un cable plano especialmente diseñado para grúas, ascensores, polipastos, enrollado en tambor y sistemas de transporte. La longitud suspendida puede alcanzar 35 m y la velocidad de extracción hasta 1,6 m/s.",
+      "image": [
+        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-h05vvh6-f-h07vvh6-f-flat-cable-for-lifts-cranes-hoists-and-conveyor-systems-01.png",
+        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_TOPFLAT_H05VVH6_FH07VVH6_F.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/bobina_negra.png"
+      ],
+      "url": "https://www.topcable.com/es/cable/topflat-h05vvh6-f-y-h07vvh6-f/",
+      "category": "Ferretería > Materiales de construcción > Cableado y cables > Cables eléctricos",
+      "brand": {
+        "@type": "Brand",
+        "name": "TOPFLAT®",
+        "url": "https://www.topcable.com/company/our-brands/"
+      },
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.topcable.com/#organization"
+      },
+      "material": "Cobre, clase 5 (flexible)",
+      "audience": {
+        "@type": "BusinessAudience",
+        "audienceType": "Distribuidores eléctricos, Instaladores eléctricos, Ingenieros (Proyectos industriales)"
+      },
+      "subjectOf": {
+        "@type": "DigitalDocument",
+        "name": "Ficha Técnica - TOPFLAT® H05VVH6-F & H07VVH6-F",
+        "url": "https://www.topcable.com/downloads/pdf/es/topcable-datasheet-topflat-h05vvh6-f-h07vvh6-f-es.pdf",
+        "encodingFormat": "application/pdf",
+        "description": "Especificaciones técnicas completas, datos de ingeniería y certificaciones del cable."
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Conductor",
+          "value": "Cobre electrolítico recocido, clase 5 (flexible) según UNE-EN 60228 e IEC 60228",
+          "url": "https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=151-12-05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aislamiento",
+          "value": "PVC (flexible) según EN 50214"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Cableado",
+          "value": "Conductores aislados colocados lado a lado en disposición paralela formando cable plano"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Cubierta exterior",
+          "value": "PVC (flexible). Color negro. Hilo de rasgado para apertura fácil"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tensión nominal",
+          "value": "300/500 V (H05VVH6-F hasta 1 mm²) y 450/750 V (H07VVH6-F desde 1,5 mm²)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Temperatura máxima del conductor",
+          "value": "70",
+          "unitText": "°C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Temperatura máxima de cortocircuito",
+          "value": "160 (máximo 5 s)",
+          "unitText": "°C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Temperatura mínima de servicio",
+          "value": "0 (servicio móvil)",
+          "unitText": "°C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "No propagación de la llama",
+          "value": "No propagación de la llama según UNE-EN 60332-1 / IEC 60332-1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Halógenos reducidos",
+          "value": "Halógenos reducidos, Cloro < 15%"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Radio mínimo de curvatura",
+          "value": "5x dimensión menor (movimiento libre), 10x dimensión menor (en guirnalda o por poleas)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Resistencia al impacto",
+          "value": "AG2 Medio"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Resistencia química y a aceites",
+          "value": "Aceptable"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Resistencia al agua",
+          "value": "AD5 Chorros"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Condiciones de instalación",
+          "value": "Al aire"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Normas (Según)",
+          "value": "EN 50214"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Normas y aprobaciones",
+          "value": "HAR, AENOR, RoHS, CE"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aplicaciones típicas",
+          "value": "Ascensores, Grúas, Polipastos, Sistemas de transporte"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Stock europeo",
+          "value": "El mayor stock europeo de cables"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Calidad de fabricación",
+          "value": "Como fabricantes de cables, garantizamos una calidad premium rentable y un rendimiento duradero."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Control de calidad",
+          "value": "Nuestros laboratorios internos garantizan una rigurosa calidad del cable, fiabilidad y cumplimiento normativo."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Logística mundial",
+          "value": "Soluciones logísticas mundiales para cables — experiencia logística para un suministro sin interrupciones."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Entrega rápida",
+          "value": "Stock completo de cables, listo para entrega rápida — plazos de entrega más cortos."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Sostenibilidad",
+          "value": "Cables con certificación EPD: fabricación sostenible para su éxito en Scope 3."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Atención al cliente",
+          "value": "Equipo comercial experto, cercano y profesional ofreciendo una atención al cliente rápida y eficiente. ¡Clientes internacionales bienvenidos!"
+        }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.topcable.com/es/cable/topflat-h05vvh6-f-y-h07vvh6-f/",
+        "priceCurrency": "EUR",
+        "price": 0,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "eligibleRegion": {
+          "@type": "Place",
+          "name": "World"
+        },
+        "seller": {
+          "@type": "Organization",
+          "@id": "https://www.topcable.com/#organization"
+        }
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://www.topcable.com/es/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cables PVC",
+          "item": "https://www.topcable.com/es/cables-pvc/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "TOPFLAT® H05VVH6-F & H07VVH6-F"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.topcable.com/#organization",
+      "name": "Top Cable",
+      "url": "https://www.topcable.com/",
+      "email": "sales@topcable.com",
+      "telephone": "+34 935 880 911",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Carrer de Leonardo da Vinci, 1",
+        "addressLocality": "Rubí",
+        "addressRegion": "Barcelona",
+        "postalCode": "08191",
+        "addressCountry": "ES"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://www.topcable.com/#logo",
+        "url": "https://www.topcable.com/wp-content/uploads/2026/01/top-cable-logo.png",
+        "contentUrl": "https://www.topcable.com/wp-content/uploads/2026/01/top-cable-logo.png"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/topcable/",
+        "https://www.youtube.com/@Topcable_europe",
+        "https://www.instagram.com/topcable_spain/",
+        "https://www.facebook.com/topcable/"
+      ]
+    }
+  ]
+}
