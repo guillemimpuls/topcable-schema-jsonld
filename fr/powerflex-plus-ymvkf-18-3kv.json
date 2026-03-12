@@ -1,0 +1,248 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "name": "POWERFLEX® PLUS YMvKf 1,8/3 kV",
+      "mpn": "YMvKf 1,8/3 kV",
+      "sku": "YMvKf 1,8/3 kV",
+      "description": "Le câble universel 1,8/3 kV pour la transmission d'énergie avec des propriétés anti-feu améliorées. SELON : IEC 60502-1 / HD 604-4-D. Le POWERFLEX® PLUS YMvKf 1,8/3 kV est un câble ignifuge recommandé pour les lieux publics et les industries à risque avec une flexibilité adaptée aux configurations difficiles.",
+      "image": [
+        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-ymvkf-1-8-3kv-the-universal-1-8-3kv-cable-for-power-transmission-with-improved-fire-proof-properties-01.png",
+        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_POWERFLEX_PLUS_YMvKf-1.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/bobina_gris.png"
+      ],
+      "url": "https://www.topcable.com/fr/cable/powerflex-plus-ymvkf-18-3kv/",
+      "category": "Quincaillerie > Matériaux de construction > Câblage et câbles > Câbles électriques",
+      "brand": {
+        "@type": "Brand",
+        "name": "POWERFLEX®",
+        "url": "https://www.topcable.com/fr/company/nos-marques/"
+      },
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.topcable.com/#organization"
+      },
+      "material": "Cuivre, classe 5 (souple)",
+      "audience": {
+        "@type": "BusinessAudience",
+        "audienceType": "Distributeurs électriques, Installateurs électriques, Ingénieurs (Projets industriels)"
+      },
+      "subjectOf": {
+        "@type": "DigitalDocument",
+        "name": "Fiche Technique - POWERFLEX® PLUS YMvKf 1,8/3 kV",
+        "url": "https://www.topcable.com/downloads/pdf/fr/topcable-datasheet-powerflex-plus-ymvkf-18-3kv-fr.pdf",
+        "encodingFormat": "application/pdf",
+        "description": "Spécifications techniques complètes, données d'ingénierie et certifications du câble."
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Conducteur",
+          "value": "Cuivre électrolytique, classe 5 (souple) selon EN 60228 et IEC 60228",
+          "url": "https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=151-12-05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Isolation",
+          "value": "Polyéthylène réticulé type XLPE selon IEC 60502-1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gaine extérieure",
+          "value": "PVC (souple). Couleur grise ou noire"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tension nominale",
+          "value": "1.8/3",
+          "unitText": "kV"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Température maximale du conducteur",
+          "value": "90",
+          "unitText": "°C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Température maximale de court-circuit",
+          "value": "250 (max. 5 s)",
+          "unitText": "°C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Température minimale de service",
+          "value": "-40 (installations fixes et protégées)",
+          "unitText": "°C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Non-propagation de la flamme",
+          "value": "Non-propagation de la flamme selon EN 60332-1 et IEC 60332-1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Non-propagation de l'incendie",
+          "value": "Non-propagation de l'incendie selon EN 60332-3-24 et IEC 60332-3-24 et EN 50399"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Classification CPR",
+          "value": "Cca-s2, d2, a3 selon EN 50575"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Halogènes réduits",
+          "value": "Halogènes réduits, Chlore < 15%"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Rayon de courbure minimum",
+          "value": "5x diamètre du câble"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Résistance aux chocs",
+          "value": "AG2 Sévérité moyenne"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Résistance chimique et aux huiles",
+          "value": "Acceptable"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Résistance aux UV",
+          "value": "Résistance aux UV selon UNE 211605"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Résistance à l'eau",
+          "value": "AD7 Immersion"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Conditions d'installation",
+          "value": "À l'air libre. Enterré. En canalisation."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Normes (Selon)",
+          "value": "IEC 60502-1, HD 604-4-D"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Normes et approbations",
+          "value": "KEMA-KEUR, BUREAU VERITAS, AENOR, RoHS, CE"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Applications typiques",
+          "value": "Installations industrielles, Chantiers de construction, Distribution d'énergie"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Stock européen",
+          "value": "Le plus grand stock européen de câbles"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Qualité de fabrication",
+          "value": "En tant que fabricants de câbles, nous garantissons une qualité premium rentable et des performances durables."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Contrôle de qualité",
+          "value": "Nos laboratoires internes garantissent une qualité rigoureuse des câbles, fiabilité et conformité aux normes."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Logistique mondiale",
+          "value": "Solutions logistiques mondiales pour câbles — expertise logistique pour un approvisionnement sans faille."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Livraison rapide",
+          "value": "Stock complet de câbles, prêt pour une livraison rapide — délais les plus courts."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durabilité",
+          "value": "Câbles certifiés EPD : fabrication durable pour votre succès Scope 3."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Service client",
+          "value": "Équipe commerciale experte, conviviale et professionnelle offrant un service client rapide et efficace. Clients internationaux bienvenus !"
+        }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.topcable.com/fr/cable/powerflex-plus-ymvkf-18-3kv/",
+        "priceCurrency": "EUR",
+        "price": 0,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "eligibleRegion": {
+          "@type": "Place",
+          "name": "World"
+        },
+        "seller": {
+          "@type": "Organization",
+          "@id": "https://www.topcable.com/#organization"
+        }
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Accueil",
+          "item": "https://www.topcable.com/fr/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Câbles d'énergie",
+          "item": "https://www.topcable.com/fr/cables-denergie/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "POWERFLEX® PLUS YMvKf 1,8/3 kV"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.topcable.com/#organization",
+      "name": "Top Cable",
+      "url": "https://www.topcable.com/",
+      "email": "sales@topcable.com",
+      "telephone": "+34 935 880 911",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Carrer de Leonardo da Vinci, 1",
+        "addressLocality": "Rubí",
+        "addressRegion": "Barcelona",
+        "postalCode": "08191",
+        "addressCountry": "ES"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://www.topcable.com/#logo",
+        "url": "https://www.topcable.com/wp-content/uploads/2026/01/top-cable-logo.png",
+        "contentUrl": "https://www.topcable.com/wp-content/uploads/2026/01/top-cable-logo.png"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/topcable/",
+        "https://www.youtube.com/@Topcable_europe",
+        "https://www.instagram.com/topcable_spain/",
+        "https://www.facebook.com/topcable/"
+      ]
+    }
+  ]
+}

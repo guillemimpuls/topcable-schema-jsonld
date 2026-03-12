@@ -1,0 +1,248 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "name": "TOXFREE® LSZH XZ1 AL",
+      "mpn": "XZ1 AL",
+      "sku": "XZ1 AL",
+      "description": "Cable de potencia apantallado LSZH con conductor de aluminio. NORMAS DE REFERENCIA: UNE-HD 603-5x. El TOXFREE® LSZH XZ1 AL es un cable de seguridad LSZH apantallado. En caso de incendio, no emite gases tóxicos ni corrosivos, evitando cualquier daño posible a las personas o equipos electrónicos. Diseñado para instalaciones fijas en redes de distribución pública de baja tensión, apto para aplicaciones industriales, fotovoltaicas y de distribución de energía.",
+      "image": [
+        "https://www.topcable.com/wp-content/uploads/2025/07/topcable-xz1-al-screened-lszh-safety-cable-01.png",
+        "https://www.topcable.com/wp-content/uploads/2025/07/TOPCABLE_TOXFREE_ZH_XZ1_AL.webp",
+        "https://www.topcable.com/wp-content/uploads/2025/07/bobina_negra.png"
+      ],
+      "url": "https://www.topcable.com/es/cable/toxfree-lszh-xz1-al/",
+      "category": "Ferretería > Materiales de construcción > Cableado y cables > Cables eléctricos",
+      "brand": {
+        "@type": "Brand",
+        "name": "TOXFREE®",
+        "url": "https://www.topcable.com/company/our-brands/"
+      },
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.topcable.com/#organization"
+      },
+      "material": "Aluminio, clase 2",
+      "audience": {
+        "@type": "BusinessAudience",
+        "audienceType": "Distribuidores eléctricos, Instaladores eléctricos, Ingenieros (Edificios públicos y hospitales), Ingenieros (Proyectos industriales), Data Centre Operators, Data Centre Design Consultants, Data Centre Contractors, Data Centre Installers"
+      },
+      "subjectOf": {
+        "@type": "DigitalDocument",
+        "name": "Ficha Técnica - TOXFREE® LSZH XZ1 AL",
+        "url": "https://www.topcable.com/downloads/pdf/es/topcable-datasheet-toxfree-lszh-xz1-al-es.pdf",
+        "encodingFormat": "application/pdf",
+        "description": "Especificaciones técnicas completas, datos de ingeniería y certificaciones del cable."
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Conductor",
+          "value": "Aluminio, clase 2 según UNE-EN 60228 e IEC 60228",
+          "url": "https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=151-12-05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aislamiento",
+          "value": "Polietileno reticulado tipo XLPE según UNE-HD 603-5x"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pantalla",
+          "value": "Cinta aluminio-poliéster solapada con cobertura 100% y hilo de drenaje de cobre estañado"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Cubierta exterior",
+          "value": "Poliolefina libre de halógenos y baja emisión de humo. Color negro"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tensión nominal",
+          "value": "0.6/1 (1.2)",
+          "unitText": "kV"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Temperatura máxima del conductor",
+          "value": "90",
+          "unitText": "°C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Temperatura máxima de cortocircuito",
+          "value": "250 (máximo 5 s)",
+          "unitText": "°C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Temperatura mínima de servicio",
+          "value": "-25",
+          "unitText": "°C"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "No propagación de la llama",
+          "value": "No propagación de la llama según UNE-EN 60332-1 / IEC 60332-1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Clasificación CPR",
+          "value": "Eca según EN 50575"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Libre de halógenos",
+          "value": "Libre de halógenos según EN 60754-1 / IEC 60754-1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Baja emisión de gases corrosivos",
+          "value": "Baja emisión de gases corrosivos según EN 60754-2 / IEC 60754-2"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Radio mínimo de curvatura",
+          "value": "15x diámetro del cable"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Resistencia al impacto",
+          "value": "AG2 Medio"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Resistencia química y a aceites",
+          "value": "Aceptable"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Resistencia a los UV",
+          "value": "Resistencia a los rayos ultravioleta según HD 603-1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Condiciones de instalación",
+          "value": "Al aire. Enterrado. Entubado."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Normas (Según)",
+          "value": "UNE-HD 603-5x"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Normas y aprobaciones",
+          "value": "AENOR, RoHS, CE"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aplicaciones típicas",
+          "value": "Distribución de energía, Instalaciones industriales, Instalaciones fotovoltaicas enterradas"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Stock europeo",
+          "value": "El mayor stock europeo de cables"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Calidad de fabricación",
+          "value": "Como fabricantes de cables, garantizamos una calidad premium rentable y un rendimiento duradero."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Control de calidad",
+          "value": "Nuestros laboratorios internos garantizan una rigurosa calidad del cable, fiabilidad y cumplimiento normativo."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Logística mundial",
+          "value": "Soluciones logísticas mundiales para cables — experiencia logística para un suministro sin interrupciones."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Entrega rápida",
+          "value": "Stock completo de cables, listo para entrega rápida — plazos de entrega más cortos."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Sostenibilidad",
+          "value": "Cables con certificación EPD: fabricación sostenible para su éxito en Scope 3."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Atención al cliente",
+          "value": "Equipo comercial experto, cercano y profesional ofreciendo una atención al cliente rápida y eficiente. ¡Clientes internacionales bienvenidos!"
+        }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.topcable.com/es/cable/toxfree-lszh-xz1-al/",
+        "priceCurrency": "EUR",
+        "price": 0,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "eligibleRegion": {
+          "@type": "Place",
+          "name": "World"
+        },
+        "seller": {
+          "@type": "Organization",
+          "@id": "https://www.topcable.com/#organization"
+        }
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://www.topcable.com/es/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cables LSZH",
+          "item": "https://www.topcable.com/es/cables-lszh/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "TOXFREE® LSZH XZ1 AL"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.topcable.com/#organization",
+      "name": "Top Cable",
+      "url": "https://www.topcable.com/",
+      "email": "sales@topcable.com",
+      "telephone": "+34 935 880 911",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Carrer de Leonardo da Vinci, 1",
+        "addressLocality": "Rubí",
+        "addressRegion": "Barcelona",
+        "postalCode": "08191",
+        "addressCountry": "ES"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://www.topcable.com/#logo",
+        "url": "https://www.topcable.com/wp-content/uploads/2026/01/top-cable-logo.png",
+        "contentUrl": "https://www.topcable.com/wp-content/uploads/2026/01/top-cable-logo.png"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/topcable/",
+        "https://www.youtube.com/@Topcable_europe",
+        "https://www.instagram.com/topcable_spain/",
+        "https://www.facebook.com/topcable/"
+      ]
+    }
+  ]
+}
